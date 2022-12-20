@@ -1,5 +1,5 @@
 {
-  "/blog-7ad": {
+  "/learndevopsonline/build/blog-b0d": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "cd74f098"
   },
-  "/blog/archive-dba": {
+  "/learndevopsonline/build/blog/archive-84b": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "9bf9e7b4"
     },
-    "archive": "b2f554cd"
+    "archive": "82efa2bb"
   },
-  "/blog/first-blog-post-90d": {
+  "/learndevopsonline/build/blog/first-blog-post-d88": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-28b": {
+  "/learndevopsonline/build/blog/long-blog-post-4d0": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-9f2": {
+  "/learndevopsonline/build/blog/mdx-blog-post-169": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-de9": {
+  "/learndevopsonline/build/blog/tags-c20": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "9bf9e7b4"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "ef5eabe3"
   },
-  "/blog/tags/docusaurus-29e": {
+  "/learndevopsonline/build/blog/tags/docusaurus-222": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "d5aade44",
+    "listMetadata": "4a4eeddd"
   },
-  "/blog/tags/facebook-605": {
+  "/learndevopsonline/build/blog/tags/facebook-1a6": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "3d74cdc4",
+    "listMetadata": "d2bb2bf4"
   },
-  "/blog/tags/hello-fc9": {
+  "/learndevopsonline/build/blog/tags/hello-e70": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "fc1a8d91",
+    "listMetadata": "4bba2afa"
   },
-  "/blog/tags/hola-112": {
+  "/learndevopsonline/build/blog/tags/hola-760": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "fb62226b",
+    "listMetadata": "ed28db42"
   },
-  "/blog/welcome-236": {
+  "/learndevopsonline/build/blog/welcome-5da": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9bf9e7b4"
@@ -136,69 +136,69 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-ee8": {
+  "/learndevopsonline/build/markdown-page-2b7": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "6062eff1"
     },
     "content": "393be207"
   },
-  "/docs-3b4": {
+  "/learndevopsonline/build/docs-ef7": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/roboshop-project-setup-documentation-fb7": {
+  "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c5c86d5f"
+    "categoryGeneratedIndex": "405f1162"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/learndevopsonline/build/docs/category/tutorial---basics-f07": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ea88f2a1"
+    "categoryGeneratedIndex": "976fb57c"
   },
-  "/docs/intro-aed": {
+  "/learndevopsonline/build/docs/intro-9d0": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/RoboShop-Project/frontend-2fb": {
+  "/learndevopsonline/build/docs/RoboShop-Project/frontend-65f": {
     "__comp": "17896441",
     "content": "3c7a37ce"
   },
-  "/docs/RoboShop-Project/project-overview-9b5": {
+  "/learndevopsonline/build/docs/RoboShop-Project/project-overview-8bc": {
     "__comp": "17896441",
     "content": "dd26570c"
   },
-  "/docs/RoboShop-Project/translate-your-site-a32": {
+  "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site-abf": {
     "__comp": "17896441",
     "content": "1b0072f4"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/learndevopsonline/build/docs/tutorial-basics/congratulations-71a": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post-d67": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/learndevopsonline/build/docs/tutorial-basics/create-a-document-db4": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/learndevopsonline/build/docs/tutorial-basics/create-a-page-639": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/learndevopsonline/build/docs/tutorial-basics/deploy-your-site-e6f": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/learndevopsonline/build/docs/tutorial-basics/markdown-features-a12": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/-3e9": {
+  "/learndevopsonline/build/-b1c": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "6062eff1"

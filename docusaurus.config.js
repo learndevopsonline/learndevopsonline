@@ -9,7 +9,7 @@ const config = {
   title: 'Documentation for LearnDevOpsOnline Training',
   tagline: '',
   url: 'http://docs.learndevopsonline.com',
-  baseUrl: '/',
+  baseUrl: '/learndevopsonline/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

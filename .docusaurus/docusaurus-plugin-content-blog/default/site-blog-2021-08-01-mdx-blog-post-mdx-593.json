@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/mdx-blog-post",
+  "permalink": "/learndevopsonline/build/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/learndevopsonline/build/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.175,
@@ -35,10 +35,10 @@
   },
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/blog/welcome"
+    "permalink": "/learndevopsonline/build/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
+    "permalink": "/learndevopsonline/build/blog/long-blog-post"
   }
 }

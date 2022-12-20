@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkldo_docs=self.webpackChunkldo_docs||[]).push([[6854],{9795:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/learndevopsonline/build/blog/tags/docusaurus","allTagsPath":"/learndevopsonline/build/blog/tags","count":4}')}}]);

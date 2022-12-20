@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "General",
-        "href": "/docs/intro",
+        "href": "/learndevopsonline/build/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,23 +24,23 @@
           {
             "type": "link",
             "label": "Project Overview",
-            "href": "/docs/RoboShop-Project/project-overview",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/project-overview",
             "docId": "RoboShop-Project/project-overview"
           },
           {
             "type": "link",
             "label": "01-Frontend",
-            "href": "/docs/RoboShop-Project/frontend",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/frontend",
             "docId": "RoboShop-Project/frontend"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/RoboShop-Project/translate-your-site",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
             "docId": "RoboShop-Project/translate-your-site"
           }
         ],
-        "href": "/docs/category/roboshop-project-setup-documentation"
+        "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
       },
       {
         "type": "category",
@@ -51,41 +51,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
+            "href": "/learndevopsonline/build/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/learndevopsonline/build/docs/category/tutorial---basics"
       }
     ]
   },

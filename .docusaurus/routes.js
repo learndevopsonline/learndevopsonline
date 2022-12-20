@@ -3,146 +3,146 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '7ad'),
+    path: '/learndevopsonline/build/blog',
+    component: ComponentCreator('/learndevopsonline/build/blog', 'b0d'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'dba'),
+    path: '/learndevopsonline/build/blog/archive',
+    component: ComponentCreator('/learndevopsonline/build/blog/archive', '84b'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '90d'),
+    path: '/learndevopsonline/build/blog/first-blog-post',
+    component: ComponentCreator('/learndevopsonline/build/blog/first-blog-post', 'd88'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '28b'),
+    path: '/learndevopsonline/build/blog/long-blog-post',
+    component: ComponentCreator('/learndevopsonline/build/blog/long-blog-post', '4d0'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '9f2'),
+    path: '/learndevopsonline/build/blog/mdx-blog-post',
+    component: ComponentCreator('/learndevopsonline/build/blog/mdx-blog-post', '169'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'de9'),
+    path: '/learndevopsonline/build/blog/tags',
+    component: ComponentCreator('/learndevopsonline/build/blog/tags', 'c20'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '29e'),
+    path: '/learndevopsonline/build/blog/tags/docusaurus',
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/docusaurus', '222'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '605'),
+    path: '/learndevopsonline/build/blog/tags/facebook',
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/facebook', '1a6'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'fc9'),
+    path: '/learndevopsonline/build/blog/tags/hello',
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/hello', 'e70'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '112'),
+    path: '/learndevopsonline/build/blog/tags/hola',
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/hola', '760'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '236'),
+    path: '/learndevopsonline/build/blog/welcome',
+    component: ComponentCreator('/learndevopsonline/build/blog/welcome', '5da'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'ee8'),
+    path: '/learndevopsonline/build/markdown-page',
+    component: ComponentCreator('/learndevopsonline/build/markdown-page', '2b7'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '3b4'),
+    path: '/learndevopsonline/build/docs',
+    component: ComponentCreator('/learndevopsonline/build/docs', 'ef7'),
     routes: [
       {
-        path: '/docs/category/roboshop-project-setup-documentation',
-        component: ComponentCreator('/docs/category/roboshop-project-setup-documentation', 'fb7'),
+        path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation', 'cd2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/learndevopsonline/build/docs/category/tutorial---basics',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/tutorial---basics', 'f07'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/learndevopsonline/build/docs/intro',
+        component: ComponentCreator('/learndevopsonline/build/docs/intro', '9d0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/RoboShop-Project/frontend',
-        component: ComponentCreator('/docs/RoboShop-Project/frontend', '2fb'),
+        path: '/learndevopsonline/build/docs/RoboShop-Project/frontend',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/frontend', '65f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/RoboShop-Project/project-overview',
-        component: ComponentCreator('/docs/RoboShop-Project/project-overview', '9b5'),
+        path: '/learndevopsonline/build/docs/RoboShop-Project/project-overview',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/project-overview', '8bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/RoboShop-Project/translate-your-site',
-        component: ComponentCreator('/docs/RoboShop-Project/translate-your-site', 'a32'),
+        path: '/learndevopsonline/build/docs/RoboShop-Project/translate-your-site',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/translate-your-site', 'abf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/congratulations', '71a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post', 'd67'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/create-a-document', 'db4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/create-a-page', '639'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/deploy-your-site', 'e6f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        path: '/learndevopsonline/build/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/learndevopsonline/build/docs/tutorial-basics/markdown-features', 'a12'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '3e9'),
+    path: '/learndevopsonline/build/',
+    component: ComponentCreator('/learndevopsonline/build/', 'b1c'),
     exact: true
   },
   {

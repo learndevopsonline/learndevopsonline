@@ -1,0 +1,27 @@
+{
+  "unversionedId": "RoboShop-Project/translate-your-site",
+  "id": "RoboShop-Project/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/RoboShop-Project/translate-your-site.md",
+  "sourceDirName": "RoboShop-Project",
+  "slug": "/RoboShop-Project/translate-your-site",
+  "permalink": "/docs/RoboShop-Project/translate-your-site",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01-Frontend",
+    "permalink": "/docs/RoboShop-Project/frontend"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

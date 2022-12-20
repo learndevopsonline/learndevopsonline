@@ -1,0 +1,208 @@
+{
+  "/blog-7ad": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/archive-dba": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "archive": "b2f554cd"
+  },
+  "/blog/first-blog-post-90d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/blog/long-blog-post-28b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/blog/mdx-blog-post-9f2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/blog/tags-de9": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/docusaurus-29e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
+  },
+  "/blog/tags/facebook-605": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "031793e1",
+    "listMetadata": "096bfee4"
+  },
+  "/blog/tags/hello-fc9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
+  },
+  "/blog/tags/hola-112": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
+  },
+  "/blog/welcome-236": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "9bf9e7b4"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/markdown-page-ee8": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "6062eff1"
+    },
+    "content": "393be207"
+  },
+  "/docs-3b4": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "d77a4d73"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/category/roboshop-project-setup-documentation-fb7": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c5c86d5f"
+  },
+  "/docs/category/tutorial---basics-d44": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ea88f2a1"
+  },
+  "/docs/intro-aed": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/RoboShop-Project/frontend-2fb": {
+    "__comp": "17896441",
+    "content": "3c7a37ce"
+  },
+  "/docs/RoboShop-Project/project-overview-9b5": {
+    "__comp": "17896441",
+    "content": "dd26570c"
+  },
+  "/docs/RoboShop-Project/translate-your-site-a32": {
+    "__comp": "17896441",
+    "content": "1b0072f4"
+  },
+  "/docs/tutorial-basics/congratulations-793": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/docs/tutorial-basics/create-a-document-c2d": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/docs/tutorial-basics/create-a-page-f44": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/docs/tutorial-basics/deploy-your-site-e46": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/docs/tutorial-basics/markdown-features-4b7": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/-3e9": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "6062eff1"
+    },
+    "config": "5e9f5e1a"
+  }
+}

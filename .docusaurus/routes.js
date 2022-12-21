@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'ef7'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '36c'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
@@ -85,8 +85,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/catalogue',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/catalogue', 'f7c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/RoboShop-Project/frontend',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/frontend', '65f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/mongodb',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/mongodb', 'bb8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

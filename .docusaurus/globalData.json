@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RoboShop-Project/catalogue",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project/catalogue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "RoboShop-Project/frontend",
               "path": "/learndevopsonline/build/docs/RoboShop-Project/frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project/mongodb",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project/mongodb",
               "sidebar": "tutorialSidebar"
             },
             {

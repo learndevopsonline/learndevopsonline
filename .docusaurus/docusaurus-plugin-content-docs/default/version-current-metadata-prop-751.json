@@ -35,6 +35,18 @@
           },
           {
             "type": "link",
+            "label": "02-MongoDB",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/mongodb",
+            "docId": "RoboShop-Project/mongodb"
+          },
+          {
+            "type": "link",
+            "label": "03-Catalogue",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/catalogue",
+            "docId": "RoboShop-Project/catalogue"
+          },
+          {
+            "type": "link",
             "label": "Translate your site",
             "href": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
             "docId": "RoboShop-Project/translate-your-site"
@@ -96,10 +108,22 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "RoboShop-Project/catalogue": {
+      "id": "RoboShop-Project/catalogue",
+      "title": "03-Catalogue",
+      "description": "Catalogue is a microservice that is responsible for serving the list of items that displays in roboshop application.",
+      "sidebar": "tutorialSidebar"
+    },
     "RoboShop-Project/frontend": {
       "id": "RoboShop-Project/frontend",
       "title": "01-Frontend",
       "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project/mongodb": {
+      "id": "RoboShop-Project/mongodb",
+      "title": "02-MongoDB",
+      "description": "Developer has chosen the database MongoDB. Hence, we are trying to install it up and configure it.",
       "sidebar": "tutorialSidebar"
     },
     "RoboShop-Project/project-overview": {

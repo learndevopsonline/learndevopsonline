@@ -10,6 +10,7 @@ const config = {
   tagline: '',
   url: 'http://docs.learndevopsonline.com',
   baseUrl: '/learndevopsonline/build/',
+  //baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

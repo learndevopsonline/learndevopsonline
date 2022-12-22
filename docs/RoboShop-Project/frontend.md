@@ -21,13 +21,33 @@ systemctl enable nginx
 systemctl start nginx 
 ```
 
-💡 Try to access the service once over the browser and ensure you get some default content.
+:::info
+Try to access the service once over the browser and ensure you get some default content.
+:::
+
 
 Remove the default content that web server is serving. 
 
 ```shell
 rm -rf /usr/share/nginx/html/* 
 ```
+
+Download the frontend content
+
+```shell
+curl -o /tmp/frontend.zip https://roboshop-artifacts.s3.amazonaws.com/frontend.zip 
+```
+
+Extract the frontend content.
+
+```shell
+cd /usr/share/nginx/html 
+unzip /tmp/frontend.zip
+```
+
+:::info
+Try to access the nginx service once more over the browser and ensure you get roboshop content.
+:::
 
 Create Nginx Reverse Proxy Configuration.
 

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Catalogue is a microservice that is responsible for serving the list of items that displays in roboshop application.
 
-:::info
+:::tip Hint
 Developer has chosen NodeJs, Check with developer which version of NodeJS is needed. 
 :::
 
@@ -28,7 +28,7 @@ Configure the application. Here
 Our application developed by the user is not having any RPM software just like other softwares. So we need to configure every step manually
 :::
 
-:::caution 
+:::caution Recap
 We already discussed in Linux basics section that applications should run as nonroot user.
 :::
 
@@ -117,3 +117,22 @@ systemctl enable catalogue
 systemctl start catalogue
 ```
 
+For the application to work fully functional we need to load schema to the Database.
+
+:::tip Info
+Schemas are usually part of application code and developer will provide them as part of development.
+:::
+
+We need to load the schema. To load schema we need to install mongodb client. 
+
+To have it installed we can use 
+
+```shell
+labauto mongodb-client
+```
+
+Load Schema 
+
+```shell 
+mongo -h MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
+```

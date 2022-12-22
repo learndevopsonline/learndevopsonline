@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '36c'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'ed8'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
@@ -81,6 +81,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/intro',
         component: ComponentCreator('/learndevopsonline/build/docs/intro', '9d0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/cart',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/cart', 'b17'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -109,8 +115,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/redis',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/redis', '08f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/RoboShop-Project/translate-your-site',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/translate-your-site', 'abf'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/user',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/user', 'bb6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

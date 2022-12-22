@@ -47,6 +47,24 @@
           },
           {
             "type": "link",
+            "label": "04-Redis",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/redis",
+            "docId": "RoboShop-Project/redis"
+          },
+          {
+            "type": "link",
+            "label": "05-User",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/user",
+            "docId": "RoboShop-Project/user"
+          },
+          {
+            "type": "link",
+            "label": "06-Cart",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project/cart",
+            "docId": "RoboShop-Project/cart"
+          },
+          {
+            "type": "link",
             "label": "Translate your site",
             "href": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
             "docId": "RoboShop-Project/translate-your-site"
@@ -108,6 +126,12 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "RoboShop-Project/cart": {
+      "id": "RoboShop-Project/cart",
+      "title": "06-Cart",
+      "description": "User is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.",
+      "sidebar": "tutorialSidebar"
+    },
     "RoboShop-Project/catalogue": {
       "id": "RoboShop-Project/catalogue",
       "title": "03-Catalogue",
@@ -129,13 +153,25 @@
     "RoboShop-Project/project-overview": {
       "id": "RoboShop-Project/project-overview",
       "title": "Project Overview",
-      "description": "",
+      "description": "Project is having the following components.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project/redis": {
+      "id": "RoboShop-Project/redis",
+      "title": "04-Redis",
+      "description": "Redis is used for in-memory data storage(Caching) and allows users to access the data of database over API.",
       "sidebar": "tutorialSidebar"
     },
     "RoboShop-Project/translate-your-site": {
       "id": "RoboShop-Project/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project/user": {
+      "id": "RoboShop-Project/user",
+      "title": "05-User",
+      "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

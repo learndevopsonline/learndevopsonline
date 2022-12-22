@@ -2,7 +2,7 @@
   "unversionedId": "RoboShop-Project/project-overview",
   "id": "RoboShop-Project/project-overview",
   "title": "Project Overview",
-  "description": "",
+  "description": "Project is having the following components.",
   "source": "@site/docs/RoboShop-Project/project-overview.md",
   "sourceDirName": "RoboShop-Project",
   "slug": "/RoboShop-Project/project-overview",

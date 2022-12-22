@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Developer has chosen the database MongoDB. Hence, we are trying to install it up and configure it. 
 
-:::info
+:::tip Hint
 **Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
 :::
 
@@ -21,7 +21,7 @@ enabled=1
 gpgkey=https://www.mongodb.org/static/pgp/server-4.2.asc
 ```
 
-:::info
+:::tip Hint
 Hint! You can create file by using **`vim /etc/yum.repos.d/mongo.repo`**
 :::
 
@@ -42,9 +42,9 @@ Usually MongoDB opens the port only to `localhost(127.0.0.1)`, meaning this serv
 
 Update listen address from 127.0.0.1 to 0.0.0.0 in `/etc/mongod.conf`
 
-:::info
+:::tip Hint
 
-Hint! You can edit file by using **`vim /etc/mongod.conf`**
+You can edit file by using **`vim /etc/mongod.conf`**
 
 :::
 

@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-36c": {
+  "/learndevopsonline/build/docs-ed8": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
@@ -162,6 +162,10 @@
     "__comp": "17896441",
     "content": "0e384e19"
   },
+  "/learndevopsonline/build/docs/RoboShop-Project/cart-b17": {
+    "__comp": "17896441",
+    "content": "d8aabb97"
+  },
   "/learndevopsonline/build/docs/RoboShop-Project/catalogue-f7c": {
     "__comp": "17896441",
     "content": "56c81e46"
@@ -178,9 +182,17 @@
     "__comp": "17896441",
     "content": "dd26570c"
   },
+  "/learndevopsonline/build/docs/RoboShop-Project/redis-08f": {
+    "__comp": "17896441",
+    "content": "d4f22989"
+  },
   "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site-abf": {
     "__comp": "17896441",
     "content": "1b0072f4"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project/user-bb6": {
+    "__comp": "17896441",
+    "content": "7b54ef42"
   },
   "/learndevopsonline/build/docs/tutorial-basics/congratulations-71a": {
     "__comp": "17896441",

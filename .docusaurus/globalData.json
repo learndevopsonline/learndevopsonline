@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RoboShop-Project/cart",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project/cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "RoboShop-Project/catalogue",
               "path": "/learndevopsonline/build/docs/RoboShop-Project/catalogue",
               "sidebar": "tutorialSidebar"
@@ -36,8 +41,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RoboShop-Project/redis",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project/redis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "RoboShop-Project/translate-your-site",
               "path": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project/user",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project/user",
               "sidebar": "tutorialSidebar"
             },
             {

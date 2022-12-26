@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # 06-Cart
@@ -96,8 +96,8 @@ SyslogIdentifier=cart
 WantedBy=multi-user.target
 ```
 
-:::hint RECAP
-You can create file by using **`vim /etc/systemd/system/user.service`**
+:::info RECAP
+You can create file by using **`vim /etc/systemd/system/cart.service`**
 :::
 
 Load the service.
@@ -113,6 +113,6 @@ This above command is because we added a new service, We are telling systemd to 
 Start the service.
 
 ```shell 
-systemctl enable user 
-systemctl start user
+systemctl enable cart 
+systemctl start cart
 ```

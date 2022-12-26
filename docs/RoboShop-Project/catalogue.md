@@ -22,10 +22,10 @@ Install NodeJS
 yum install nodejs -y
 ```
 
-Configure the application. Here
+Configure the application.
 
 :::info 
-Our application developed by the user is not having any RPM software just like other softwares. So we need to configure every step manually
+Our application developed by the developer of our org and it is not having any RPM software just like other softwares. So we need to configure every step manually
 :::
 
 :::caution Recap
@@ -83,6 +83,7 @@ Setup SystemD Catalogue Service
 ```unit file (systemd) title=/etc/systemd/system/catalogue.service
 [Unit]
 Description = Catalogue Service
+
 [Service]
 User=roboshop
 Environment=MONGO=true
@@ -134,5 +135,5 @@ labauto mongodb-client
 Load Schema 
 
 ```shell 
-mongo -h MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
+mongo --host MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
 ```

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # 05-User
@@ -135,5 +135,5 @@ labauto mongodb-client
 Load Schema 
 
 ```shell 
-mongo -h MONGODB-SERVER-IPADDRESS </app/schema/user.js
+mongo --host MONGODB-SERVER-IPADDRESS </app/schema/user.js
 ```

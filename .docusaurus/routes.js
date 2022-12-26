@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'ed8'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '0ec'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
@@ -97,6 +97,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/dispatch',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/dispatch', 'ed1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/RoboShop-Project/frontend',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/frontend', '65f'),
         exact: true,
@@ -109,14 +115,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/mysql',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/mysql', 'adb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/payment',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/payment', 'ca7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/RoboShop-Project/project-overview',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/project-overview', '8bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/rabbitmq',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/rabbitmq', '913'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/RoboShop-Project/redis',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/redis', '08f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project/shipping',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/shipping', '65c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

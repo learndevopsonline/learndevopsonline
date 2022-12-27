@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # 06-Cart
 
-User is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.
+Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.
 
 :::tip Hint
 Developer has chosen NodeJs, Check with developer which version of NodeJS is needed. 

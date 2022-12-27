@@ -2,7 +2,7 @@
   "unversionedId": "RoboShop-Project/cart",
   "id": "RoboShop-Project/cart",
   "title": "06-Cart",
-  "description": "User is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.",
+  "description": "Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.",
   "source": "@site/docs/RoboShop-Project/cart.md",
   "sourceDirName": "RoboShop-Project",
   "slug": "/RoboShop-Project/cart",

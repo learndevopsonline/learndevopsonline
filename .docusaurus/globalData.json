@@ -11,8 +11,13 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "How-Tos/project-overview",
-              "path": "/learndevopsonline/build/docs/How-Tos/project-overview",
+              "id": "How-Tos/increase-spot-quota",
+              "path": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-Tos/show-name-tag-in-spot-request",
+              "path": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '4c4'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'ca4'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/how-tos',
@@ -79,8 +79,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/learndevopsonline/build/docs/How-Tos/project-overview',
-        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/project-overview', '01a'),
+        path: '/learndevopsonline/build/docs/How-Tos/increase-spot-quota',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/increase-spot-quota', 'e3a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request', 'fb6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

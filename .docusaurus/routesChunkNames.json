@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-4c4": {
+  "/learndevopsonline/build/docs-ca4": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
@@ -158,9 +158,13 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "405f1162"
   },
-  "/learndevopsonline/build/docs/How-Tos/project-overview-01a": {
+  "/learndevopsonline/build/docs/How-Tos/increase-spot-quota-e3a": {
     "__comp": "17896441",
-    "content": "f8596875"
+    "content": "31edacbd"
+  },
+  "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request-fb6": {
+    "__comp": "17896441",
+    "content": "b4ede0b5"
   },
   "/learndevopsonline/build/docs/intro-9d0": {
     "__comp": "17896441",

@@ -105,8 +105,14 @@
           {
             "type": "link",
             "label": "Show Name in Spot Instances",
-            "href": "/learndevopsonline/build/docs/How-Tos/project-overview",
-            "docId": "How-Tos/project-overview"
+            "href": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request",
+            "docId": "How-Tos/show-name-tag-in-spot-request"
+          },
+          {
+            "type": "link",
+            "label": "Increase Spot Request Quota in AWS",
+            "href": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
+            "docId": "How-Tos/increase-spot-quota"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -114,10 +120,16 @@
     ]
   },
   "docs": {
-    "How-Tos/project-overview": {
-      "id": "How-Tos/project-overview",
+    "How-Tos/increase-spot-quota": {
+      "id": "How-Tos/increase-spot-quota",
+      "title": "Increase Spot Request Quota in AWS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/show-name-tag-in-spot-request": {
+      "id": "How-Tos/show-name-tag-in-spot-request",
       "title": "Show Name in Spot Instances",
-      "description": "Locale Dropdown",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

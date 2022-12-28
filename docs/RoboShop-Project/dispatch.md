@@ -65,7 +65,7 @@ Lets download the dependencies & build the software.
 cd /app 
 go mod init dispatch
 go get 
-got build
+go build
 ```
 
 We need to setup a new service in **systemd** so `systemctl` can manage this service
@@ -87,7 +87,7 @@ Environment=AMQP_HOST=RABBITMQ-IP
 // highlight-end
 Environment=AMQP_USER=roboshop
 Environment=AMQP_PASS=roboshop123
-ExecStart=/home/roboshop/dispatch/dispatch
+ExecStart=/app/dispatch
 SyslogIdentifier=dispatch
 
 [Install]

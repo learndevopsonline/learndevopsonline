@@ -92,64 +92,34 @@
             "label": "11-Dispatch",
             "href": "/learndevopsonline/build/docs/RoboShop-Project/dispatch",
             "docId": "RoboShop-Project/dispatch"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
-            "docId": "RoboShop-Project/translate-your-site"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "How Tos",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/learndevopsonline/build/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "Show Name in Spot Instances",
+            "href": "/learndevopsonline/build/docs/How-Tos/project-overview",
+            "docId": "How-Tos/project-overview"
           }
         ],
-        "href": "/learndevopsonline/build/docs/category/tutorial---basics"
+        "href": "/learndevopsonline/build/docs/category/how-tos"
       }
     ]
   },
   "docs": {
+    "How-Tos/project-overview": {
+      "id": "How-Tos/project-overview",
+      "title": "Show Name in Spot Instances",
+      "description": "Locale Dropdown",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "General",
@@ -222,52 +192,10 @@
       "description": "Shipping service is responsible for finding the distance of the package to be shipped and calculate the price based on that.",
       "sidebar": "tutorialSidebar"
     },
-    "RoboShop-Project/translate-your-site": {
-      "id": "RoboShop-Project/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
-      "sidebar": "tutorialSidebar"
-    },
     "RoboShop-Project/user": {
       "id": "RoboShop-Project/user",
       "title": "05-User",
       "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     }
   }

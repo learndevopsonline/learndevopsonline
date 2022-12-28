@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "How-Tos/project-overview",
+              "path": "/learndevopsonline/build/docs/How-Tos/project-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/learndevopsonline/build/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -71,43 +76,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RoboShop-Project/translate-your-site",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "RoboShop-Project/user",
               "path": "/learndevopsonline/build/docs/RoboShop-Project/user",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/learndevopsonline/build/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -116,8 +86,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/learndevopsonline/build/docs/category/tutorial---basics",
+              "id": "/category/how-tos",
+              "path": "/learndevopsonline/build/docs/category/how-tos",
               "sidebar": "tutorialSidebar"
             }
           ],

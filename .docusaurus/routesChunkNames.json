@@ -143,20 +143,24 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-0ec": {
+  "/learndevopsonline/build/docs-4c4": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
     },
     "versionMetadata": "935f2afb"
   },
+  "/learndevopsonline/build/docs/category/how-tos-cc5": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0818ef9b"
+  },
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "405f1162"
   },
-  "/learndevopsonline/build/docs/category/tutorial---basics-f07": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "976fb57c"
+  "/learndevopsonline/build/docs/How-Tos/project-overview-01a": {
+    "__comp": "17896441",
+    "content": "f8596875"
   },
   "/learndevopsonline/build/docs/intro-9d0": {
     "__comp": "17896441",
@@ -206,37 +210,9 @@
     "__comp": "17896441",
     "content": "c2076151"
   },
-  "/learndevopsonline/build/docs/RoboShop-Project/translate-your-site-abf": {
-    "__comp": "17896441",
-    "content": "1b0072f4"
-  },
   "/learndevopsonline/build/docs/RoboShop-Project/user-bb6": {
     "__comp": "17896441",
     "content": "7b54ef42"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/congratulations-71a": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/create-a-blog-post-d67": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/create-a-document-db4": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/create-a-page-639": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/deploy-your-site-e6f": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/learndevopsonline/build/docs/tutorial-basics/markdown-features-a12": {
-    "__comp": "17896441",
-    "content": "18c41134"
   },
   "/learndevopsonline/build/-b1c": {
     "__comp": "c4f5d8e4",

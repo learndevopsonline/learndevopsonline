@@ -113,6 +113,30 @@
             "label": "Increase Spot Request Quota in AWS",
             "href": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
             "docId": "How-Tos/increase-spot-quota"
+          },
+          {
+            "type": "link",
+            "label": "Install IntelliJ Editor on Desktop",
+            "href": "/learndevopsonline/build/docs/How-Tos/install-intellij",
+            "docId": "How-Tos/install-intellij"
+          },
+          {
+            "type": "link",
+            "label": "How to open multiple repos in one editor",
+            "href": "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor",
+            "docId": "How-Tos/open-multiple-repos-in-one-editor"
+          },
+          {
+            "type": "link",
+            "label": "How to Push Code Automatic to all repos",
+            "href": "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos",
+            "docId": "How-Tos/push-code-automatically-to-central-repos"
+          },
+          {
+            "type": "link",
+            "label": "Use Cloud9 as Editor instead of IntelliJ",
+            "href": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor",
+            "docId": "How-Tos/aws-cloud9-service-as-editor"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -120,10 +144,34 @@
     ]
   },
   "docs": {
+    "How-Tos/aws-cloud9-service-as-editor": {
+      "id": "How-Tos/aws-cloud9-service-as-editor",
+      "title": "Use Cloud9 as Editor instead of IntelliJ",
+      "description": "Incases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
+      "sidebar": "tutorialSidebar"
+    },
     "How-Tos/increase-spot-quota": {
       "id": "How-Tos/increase-spot-quota",
       "title": "Increase Spot Request Quota in AWS",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/install-intellij": {
+      "id": "How-Tos/install-intellij",
+      "title": "Install IntelliJ Editor on Desktop",
+      "description": "In the above video you are going to see how to install IntelliJ in windows. You",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/open-multiple-repos-in-one-editor": {
+      "id": "How-Tos/open-multiple-repos-in-one-editor",
+      "title": "How to open multiple repos in one editor",
+      "description": "Usually while working on multiple repos in parallel, Opening multiple windows might be bit lagging with performance. Hence we can take this approach and open multiple repositories in single IntelliJ window.",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/push-code-automatically-to-central-repos": {
+      "id": "How-Tos/push-code-automatically-to-central-repos",
+      "title": "How to Push Code Automatic to all repos",
+      "description": "Though it is unethical practice, yet we want to push the code to save some time, We can take this approach.",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/show-name-tag-in-spot-request": {

@@ -19,5 +19,9 @@
   "previous": {
     "title": "Show Name in Spot Instances",
     "permalink": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request"
+  },
+  "next": {
+    "title": "Install IntelliJ Editor on Desktop",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/install-intellij"
   }
 }

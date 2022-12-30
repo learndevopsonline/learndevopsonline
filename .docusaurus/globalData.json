@@ -11,8 +11,28 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "How-Tos/aws-cloud9-service-as-editor",
+              "path": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/increase-spot-quota",
               "path": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-Tos/install-intellij",
+              "path": "/learndevopsonline/build/docs/How-Tos/install-intellij",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-Tos/open-multiple-repos-in-one-editor",
+              "path": "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-Tos/push-code-automatically-to-central-repos",
+              "path": "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos",
               "sidebar": "tutorialSidebar"
             },
             {

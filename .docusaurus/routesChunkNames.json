@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-ca4": {
+  "/learndevopsonline/build/docs-353": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
@@ -158,9 +158,25 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "405f1162"
   },
+  "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor-9fe": {
+    "__comp": "17896441",
+    "content": "6523df8b"
+  },
   "/learndevopsonline/build/docs/How-Tos/increase-spot-quota-e3a": {
     "__comp": "17896441",
     "content": "31edacbd"
+  },
+  "/learndevopsonline/build/docs/How-Tos/install-intellij-5cb": {
+    "__comp": "17896441",
+    "content": "1b2db65d"
+  },
+  "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor-8ac": {
+    "__comp": "17896441",
+    "content": "116a9154"
+  },
+  "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos-614": {
+    "__comp": "17896441",
+    "content": "421a6610"
   },
   "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request-fb6": {
     "__comp": "17896441",

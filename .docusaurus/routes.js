@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'ca4'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '353'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/how-tos',
@@ -79,8 +79,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor', '9fe'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/How-Tos/increase-spot-quota',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/increase-spot-quota', 'e3a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/install-intellij',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/install-intellij', '5cb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor', '8ac'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos', '614'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

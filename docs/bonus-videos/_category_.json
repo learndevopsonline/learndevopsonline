@@ -1,0 +1,8 @@
+{
+  "label": "Additional Videos",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Bonus videos that can help you to learn some extra concepts that we might not be able to cover as part of training."
+  }
+}

@@ -64,8 +64,20 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '353'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '90f'),
     routes: [
+      {
+        path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
+        component: ComponentCreator('/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor', '35b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/additional-videos',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/additional-videos', '4e4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/learndevopsonline/build/docs/category/how-tos',
         component: ComponentCreator('/learndevopsonline/build/docs/category/how-tos', 'cc5'),

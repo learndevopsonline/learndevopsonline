@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "bonus-videos/aws-cloud9-service-as-editor",
+              "path": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/aws-cloud9-service-as-editor",
               "path": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor",
               "sidebar": "tutorialSidebar"
@@ -113,6 +118,11 @@
             {
               "id": "/category/how-tos",
               "path": "/learndevopsonline/build/docs/category/how-tos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/additional-videos",
+              "path": "/learndevopsonline/build/docs/category/additional-videos",
               "sidebar": "tutorialSidebar"
             }
           ],

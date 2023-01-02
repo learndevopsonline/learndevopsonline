@@ -1,0 +1,16 @@
+{
+  "title": "Additional Videos",
+  "description": "Bonus videos that can help you to learn some extra concepts that we might not be able to cover as part of training.",
+  "slug": "/category/additional-videos",
+  "permalink": "/learndevopsonline/build/docs/category/additional-videos",
+  "navigation": {
+    "previous": {
+      "title": "Use Cloud9 as Editor instead of IntelliJ",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor"
+    },
+    "next": {
+      "title": "Problems with SSH KeyPair.",
+      "permalink": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor"
+    }
+  }
+}

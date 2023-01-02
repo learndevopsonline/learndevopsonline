@@ -140,10 +140,31 @@
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
+      },
+      {
+        "type": "category",
+        "label": "Additional Videos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Problems with SSH KeyPair.",
+            "href": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor",
+            "docId": "bonus-videos/aws-cloud9-service-as-editor"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/additional-videos"
       }
     ]
   },
   "docs": {
+    "bonus-videos/aws-cloud9-service-as-editor": {
+      "id": "bonus-videos/aws-cloud9-service-as-editor",
+      "title": "Problems with SSH KeyPair.",
+      "description": "Comment of the video if you need clarity on any part of the video.",
+      "sidebar": "tutorialSidebar"
+    },
     "How-Tos/aws-cloud9-service-as-editor": {
       "id": "How-Tos/aws-cloud9-service-as-editor",
       "title": "Use Cloud9 as Editor instead of IntelliJ",

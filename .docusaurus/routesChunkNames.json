@@ -143,12 +143,20 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-353": {
+  "/learndevopsonline/build/docs-90f": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
     },
     "versionMetadata": "935f2afb"
+  },
+  "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor-35b": {
+    "__comp": "17896441",
+    "content": "966679ea"
+  },
+  "/learndevopsonline/build/docs/category/additional-videos-4e4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "74542498"
   },
   "/learndevopsonline/build/docs/category/how-tos-cc5": {
     "__comp": "14eb3368",

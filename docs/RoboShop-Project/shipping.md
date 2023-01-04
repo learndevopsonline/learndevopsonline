@@ -123,7 +123,7 @@ For this application to work fully functional we need to load schema to the Data
 Schemas are usually part of application code and developer will provide them as part of development.
 :::
 
-We need to load the schema. To load schema we need to install mongodb client.
+We need to load the schema. To load schema we need to install mysql client.
 
 To have it installed we can use
 

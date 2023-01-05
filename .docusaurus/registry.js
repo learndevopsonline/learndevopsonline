@@ -1,5 +1,6 @@
 export default {
   '01a85c17': [() => import(/* webpackChunkName: '01a85c17' */ '@theme/BlogTagsListPage'), '@theme/BlogTagsListPage', require.resolveWeak('@theme/BlogTagsListPage')],
+  '030c0103': [() => import(/* webpackChunkName: '030c0103' */ '@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md'), '@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md', require.resolveWeak('@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md')],
   '0818ef9b': [() => import(/* webpackChunkName: '0818ef9b' */ '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json'), '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json', require.resolveWeak('~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json')],
   '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
   '10649941': [() => import(/* webpackChunkName: '10649941' */ '@site/docs/RoboShop-Project/dispatch.md'), '@site/docs/RoboShop-Project/dispatch.md', require.resolveWeak('@site/docs/RoboShop-Project/dispatch.md')],

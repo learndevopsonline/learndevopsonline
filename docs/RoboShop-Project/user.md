@@ -126,11 +126,20 @@ Schemas are usually part of application code and developer will provide them as 
 
 We need to load the schema. To load schema we need to install mongodb client. 
 
-To have it installed we can use 
+To have it installed we can setup MongoDB repo and install mongodb-client
 
-```shell
-labauto mongodb-client
+``` shell title=/etc/yum.repos.d/mongo.repo
+[mongodb-org-4.2]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/4.2/x86_64/
+gpgcheck=0
+enabled=1
 ```
+
+```shell 
+yum install mongodb-org-shell -y
+```
+
 
 Load Schema 
 

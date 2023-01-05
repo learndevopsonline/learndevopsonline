@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '90f'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'e3e'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -93,6 +93,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor', '9fe'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day', 'a2d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

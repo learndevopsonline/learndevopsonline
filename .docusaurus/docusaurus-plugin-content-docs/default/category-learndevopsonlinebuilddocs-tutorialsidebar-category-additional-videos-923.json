@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "Use Cloud9 as Editor instead of IntelliJ",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor"
+      "title": "How to see GitHub Code of Particular Day.",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

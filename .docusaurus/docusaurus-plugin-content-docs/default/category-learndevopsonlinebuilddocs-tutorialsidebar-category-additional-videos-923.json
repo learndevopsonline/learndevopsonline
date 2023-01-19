@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "How to see GitHub Code of Particular Day.",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day"
+      "title": "Configure IAM user for Workstation Instance.",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

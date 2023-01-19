@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How-Tos/workstation-user-create-and-setup",
+              "path": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/learndevopsonline/build/docs/intro",
               "sidebar": "tutorialSidebar"

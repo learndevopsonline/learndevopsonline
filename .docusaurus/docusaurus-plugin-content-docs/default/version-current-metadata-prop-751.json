@@ -143,6 +143,12 @@
             "label": "How to see GitHub Code of Particular Day.",
             "href": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day",
             "docId": "How-Tos/how-to-view-code-in-github-of-particular-day"
+          },
+          {
+            "type": "link",
+            "label": "Configure IAM user for Workstation Instance.",
+            "href": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup",
+            "docId": "How-Tos/workstation-user-create-and-setup"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -210,6 +216,12 @@
     "How-Tos/show-name-tag-in-spot-request": {
       "id": "How-Tos/show-name-tag-in-spot-request",
       "title": "Show Name in Spot Instances",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/workstation-user-create-and-setup": {
+      "id": "How-Tos/workstation-user-create-and-setup",
+      "title": "Configure IAM user for Workstation Instance.",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

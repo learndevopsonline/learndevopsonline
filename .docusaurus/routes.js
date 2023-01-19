@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'e3e'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '532'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -129,6 +129,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request', 'fb6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup', '2c9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

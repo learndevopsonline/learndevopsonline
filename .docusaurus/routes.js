@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '532'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'aca'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -93,6 +93,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor', '9fe'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group', 'e39'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

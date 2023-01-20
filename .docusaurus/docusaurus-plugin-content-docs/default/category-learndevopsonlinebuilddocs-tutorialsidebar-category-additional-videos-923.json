@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "Configure IAM user for Workstation Instance.",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup"
+      "title": "Create allow-all security group",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

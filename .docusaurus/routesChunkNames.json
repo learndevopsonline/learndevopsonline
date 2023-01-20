@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-532": {
+  "/learndevopsonline/build/docs-aca": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
@@ -169,6 +169,10 @@
   "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor-9fe": {
     "__comp": "17896441",
     "content": "6523df8b"
+  },
+  "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group-e39": {
+    "__comp": "17896441",
+    "content": "1e391087"
   },
   "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day-a2d": {
     "__comp": "17896441",

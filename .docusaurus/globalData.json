@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How-Tos/how-to-make-notes-with-notion",
+              "path": "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/how-to-view-code-in-github-of-particular-day",
               "path": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day",
               "sidebar": "tutorialSidebar"

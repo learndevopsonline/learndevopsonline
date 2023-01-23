@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'aca'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '155'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -99,6 +99,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group', 'e39'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion', '40d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -41,6 +41,7 @@ export default {
   'a6aa9e1f': [() => import(/* webpackChunkName: 'a6aa9e1f' */ '@theme/BlogListPage'), '@theme/BlogListPage', require.resolveWeak('@theme/BlogListPage')],
   'b4ede0b5': [() => import(/* webpackChunkName: 'b4ede0b5' */ '@site/docs/How-Tos/show-name-tag-in-spot-request.md'), '@site/docs/How-Tos/show-name-tag-in-spot-request.md', require.resolveWeak('@site/docs/How-Tos/show-name-tag-in-spot-request.md')],
   'b9abb97f': [() => import(/* webpackChunkName: 'b9abb97f' */ '@site/docs/RoboShop-Project/payment.md'), '@site/docs/RoboShop-Project/payment.md', require.resolveWeak('@site/docs/RoboShop-Project/payment.md')],
+  'b9f72aa7': [() => import(/* webpackChunkName: 'b9f72aa7' */ '@site/docs/How-Tos/10-how-to-make-notes-with-notion.md'), '@site/docs/How-Tos/10-how-to-make-notes-with-notion.md', require.resolveWeak('@site/docs/How-Tos/10-how-to-make-notes-with-notion.md')],
   'c2076151': [() => import(/* webpackChunkName: 'c2076151' */ '@site/docs/RoboShop-Project/shipping.md'), '@site/docs/RoboShop-Project/shipping.md', require.resolveWeak('@site/docs/RoboShop-Project/shipping.md')],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ '@site/src/pages/index.js'), '@site/src/pages/index.js', require.resolveWeak('@site/src/pages/index.js')],
   'cb7efee8': [() => import(/* webpackChunkName: 'cb7efee8' */ '@site/docs/RoboShop-Project/mysql.md'), '@site/docs/RoboShop-Project/mysql.md', require.resolveWeak('@site/docs/RoboShop-Project/mysql.md')],

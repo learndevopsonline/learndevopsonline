@@ -155,6 +155,12 @@
             "label": "Create allow-all security group",
             "href": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group",
             "docId": "How-Tos/create-allow-all-security-group"
+          },
+          {
+            "type": "link",
+            "label": "How to Make Notes Using Notion",
+            "href": "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion",
+            "docId": "How-Tos/how-to-make-notes-with-notion"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -192,6 +198,12 @@
     "How-Tos/create-allow-all-security-group": {
       "id": "How-Tos/create-allow-all-security-group",
       "title": "Create allow-all security group",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/how-to-make-notes-with-notion": {
+      "id": "How-Tos/how-to-make-notes-with-notion",
+      "title": "How to Make Notes Using Notion",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

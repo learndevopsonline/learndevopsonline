@@ -17,6 +17,21 @@
       },
       {
         "type": "category",
+        "label": "Linux Commands",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Linux Commands",
+            "href": "/learndevopsonline/build/docs/linux/linux-commands",
+            "docId": "linux/linux-commands"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/linux-commands"
+      },
+      {
+        "type": "category",
         "label": "RoboShop Project Setup Documentation",
         "collapsible": true,
         "collapsed": true,
@@ -192,7 +207,7 @@
     "How-Tos/aws-cloud9-service-as-editor": {
       "id": "How-Tos/aws-cloud9-service-as-editor",
       "title": "Use Cloud9 as Editor instead of IntelliJ",
-      "description": "Incases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
+      "description": "In cases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/create-allow-all-security-group": {
@@ -253,6 +268,12 @@
       "id": "intro",
       "title": "General",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "linux/linux-commands": {
+      "id": "linux/linux-commands",
+      "title": "Linux Commands",
+      "description": "1. List Files & Directories",
       "sidebar": "tutorialSidebar"
     },
     "RoboShop-Project/cart": {

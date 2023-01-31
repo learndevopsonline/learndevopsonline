@@ -4,9 +4,9 @@ sidebar_position: 6
 
 # Use Cloud9 as Editor instead of IntelliJ 
 
-Incases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.
+In cases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.
 
-However if possible go with Intellij as it comes with good enhanced plugins and makes the code in a better way.
+However, if possible go with Intellij as it comes with good enhanced plugins and makes the code in a better way.
 
 <iframe width="708" height="531" src="https://www.youtube.com/embed/50BzaijaNZI" title="Use Cloud9 as Editor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 

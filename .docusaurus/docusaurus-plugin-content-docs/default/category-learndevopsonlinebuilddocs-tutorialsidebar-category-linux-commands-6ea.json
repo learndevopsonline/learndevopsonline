@@ -1,0 +1,15 @@
+{
+  "title": "Linux Commands",
+  "slug": "/category/linux-commands",
+  "permalink": "/learndevopsonline/build/docs/category/linux-commands",
+  "navigation": {
+    "previous": {
+      "title": "General",
+      "permalink": "/learndevopsonline/build/docs/intro"
+    },
+    "next": {
+      "title": "Linux Commands",
+      "permalink": "/learndevopsonline/build/docs/linux/linux-commands"
+    }
+  }
+}

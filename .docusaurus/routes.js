@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '155'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '169'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -81,6 +81,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/how-tos',
         component: ComponentCreator('/learndevopsonline/build/docs/category/how-tos', 'cc5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/linux-commands',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/linux-commands', '802'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -153,6 +159,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/intro',
         component: ComponentCreator('/learndevopsonline/build/docs/intro', '9d0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/linux/linux-commands',
+        component: ComponentCreator('/learndevopsonline/build/docs/linux/linux-commands', '962'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

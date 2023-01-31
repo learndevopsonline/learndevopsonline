@@ -1,6 +1,7 @@
 export default {
   '01a85c17': [() => import(/* webpackChunkName: '01a85c17' */ '@theme/BlogTagsListPage'), '@theme/BlogTagsListPage', require.resolveWeak('@theme/BlogTagsListPage')],
   '030c0103': [() => import(/* webpackChunkName: '030c0103' */ '@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md'), '@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md', require.resolveWeak('@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md')],
+  '04b7eb47': [() => import(/* webpackChunkName: '04b7eb47' */ '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-linux-commands-6ea.json'), '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-linux-commands-6ea.json', require.resolveWeak('~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-linux-commands-6ea.json')],
   '0818ef9b': [() => import(/* webpackChunkName: '0818ef9b' */ '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json'), '~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json', require.resolveWeak('~docs/default/category-learndevopsonlinebuilddocs-tutorialsidebar-category-how-tos-918.json')],
   '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
   '10649941': [() => import(/* webpackChunkName: '10649941' */ '@site/docs/RoboShop-Project/dispatch.md'), '@site/docs/RoboShop-Project/dispatch.md', require.resolveWeak('@site/docs/RoboShop-Project/dispatch.md')],
@@ -42,6 +43,7 @@ export default {
   'b4ede0b5': [() => import(/* webpackChunkName: 'b4ede0b5' */ '@site/docs/How-Tos/show-name-tag-in-spot-request.md'), '@site/docs/How-Tos/show-name-tag-in-spot-request.md', require.resolveWeak('@site/docs/How-Tos/show-name-tag-in-spot-request.md')],
   'b9abb97f': [() => import(/* webpackChunkName: 'b9abb97f' */ '@site/docs/RoboShop-Project/payment.md'), '@site/docs/RoboShop-Project/payment.md', require.resolveWeak('@site/docs/RoboShop-Project/payment.md')],
   'b9f72aa7': [() => import(/* webpackChunkName: 'b9f72aa7' */ '@site/docs/How-Tos/10-how-to-make-notes-with-notion.md'), '@site/docs/How-Tos/10-how-to-make-notes-with-notion.md', require.resolveWeak('@site/docs/How-Tos/10-how-to-make-notes-with-notion.md')],
+  'c0a68bf5': [() => import(/* webpackChunkName: 'c0a68bf5' */ '@site/docs/linux/linux-commands.md'), '@site/docs/linux/linux-commands.md', require.resolveWeak('@site/docs/linux/linux-commands.md')],
   'c2076151': [() => import(/* webpackChunkName: 'c2076151' */ '@site/docs/RoboShop-Project/shipping.md'), '@site/docs/RoboShop-Project/shipping.md', require.resolveWeak('@site/docs/RoboShop-Project/shipping.md')],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ '@site/src/pages/index.js'), '@site/src/pages/index.js', require.resolveWeak('@site/src/pages/index.js')],
   'cb7efee8': [() => import(/* webpackChunkName: 'cb7efee8' */ '@site/docs/RoboShop-Project/mysql.md'), '@site/docs/RoboShop-Project/mysql.md', require.resolveWeak('@site/docs/RoboShop-Project/mysql.md')],

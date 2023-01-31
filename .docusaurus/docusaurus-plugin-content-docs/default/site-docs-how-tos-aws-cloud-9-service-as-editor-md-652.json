@@ -2,7 +2,7 @@
   "unversionedId": "How-Tos/aws-cloud9-service-as-editor",
   "id": "How-Tos/aws-cloud9-service-as-editor",
   "title": "Use Cloud9 as Editor instead of IntelliJ",
-  "description": "Incases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
+  "description": "In cases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
   "source": "@site/docs/How-Tos/aws-cloud9-service-as-editor.md",
   "sourceDirName": "How-Tos",
   "slug": "/How-Tos/aws-cloud9-service-as-editor",

@@ -1,6 +1,6 @@
 {
-  "label": "How Tos",
-  "position": 4,
+  "label": "Linux Commands",
+  "position": 2,
   "link": {
     "type": "generated-index"
   }

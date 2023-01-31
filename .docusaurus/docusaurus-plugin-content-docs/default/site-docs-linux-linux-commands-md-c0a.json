@@ -1,0 +1,27 @@
+{
+  "unversionedId": "linux/linux-commands",
+  "id": "linux/linux-commands",
+  "title": "Linux Commands",
+  "description": "1. List Files & Directories",
+  "source": "@site/docs/linux/linux-commands.md",
+  "sourceDirName": "linux",
+  "slug": "/linux/linux-commands",
+  "permalink": "/learndevopsonline/build/docs/linux/linux-commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux-commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux Commands",
+    "permalink": "/learndevopsonline/build/docs/category/linux-commands"
+  },
+  "next": {
+    "title": "RoboShop Project Setup Documentation",
+    "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
+  }
+}

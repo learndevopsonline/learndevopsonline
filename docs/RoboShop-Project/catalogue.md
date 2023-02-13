@@ -7,7 +7,8 @@ sidebar_position: 4
 Catalogue is a microservice that is responsible for serving the list of items that displays in roboshop application.
 
 :::tip Hint
-Developer has chosen NodeJs, Check with developer which version of NodeJS is needed. 
+**Developer has chosen NodeJs, Check with developer which version of NodeJS is needed.**
+**Developer has set a context that it can work with NodeJS >18**
 :::
 
 Setup NodeJS repos. Vendor is providing a script to setup the repos. 

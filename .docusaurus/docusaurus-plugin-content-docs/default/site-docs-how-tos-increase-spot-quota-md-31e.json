@@ -1,0 +1,27 @@
+{
+  "unversionedId": "How-Tos/increase-spot-quota",
+  "id": "How-Tos/increase-spot-quota",
+  "title": "Increase Spot Request Quota in AWS",
+  "description": "",
+  "source": "@site/docs/How-Tos/increase-spot-quota.md",
+  "sourceDirName": "How-Tos",
+  "slug": "/How-Tos/increase-spot-quota",
+  "permalink": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/increase-spot-quota.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Show Name in Spot Instances",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request"
+  },
+  "next": {
+    "title": "Install IntelliJ Editor on Desktop",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/install-intellij"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "How-Tos/workstation-user-create-and-setup",
+  "id": "How-Tos/workstation-user-create-and-setup",
+  "title": "Configure IAM user for Workstation Instance.",
+  "description": "",
+  "source": "@site/docs/How-Tos/workstation-user-create-and-setup.md",
+  "sourceDirName": "How-Tos",
+  "slug": "/How-Tos/workstation-user-create-and-setup",
+  "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/workstation-user-create-and-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to see GitHub Code of Particular Day.",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day"
+  },
+  "next": {
+    "title": "Create allow-all security group",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group"
+  }
+}

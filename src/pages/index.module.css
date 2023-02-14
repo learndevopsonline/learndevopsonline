@@ -18,6 +18,13 @@
 
 .buttons {
   display: flex;
-  align-items: center;
+  align-items: space-between;
   justify-content: center;
+  margin: 10px;
 }
+.buttonMargin{
+  margin: 4px;
+}
+
+.button.button--secondary{
+margin:10px;}

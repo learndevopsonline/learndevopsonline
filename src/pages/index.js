@@ -19,13 +19,13 @@ function HomepageHeader() {
           style={{ margin:'10px'}}
             className="button button--secondary button--lg "
             to="/docs/intro">
-            Documentation ⏱️
+            Training Docs
           </Link>
           <Link
           style={{ margin:'10px'}}
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Documentation ⏱️
+            href="https://github.com/learndevopsonline/learndevopsonline/discussions/categories/q-a" >
+            Discussions
           </Link>
         </div>
       </div>

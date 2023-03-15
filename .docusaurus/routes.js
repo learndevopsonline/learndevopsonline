@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '169'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '7a8'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -105,6 +105,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group', 'e39'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2', '7b3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

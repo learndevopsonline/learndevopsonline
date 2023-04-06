@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/learndevopsonline/build/__docusaurus/debug',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug', 'f8e'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/config',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/config', '189'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/content',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/content', '5dd'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/globalData',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/globalData', '5c5'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/metadata',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/metadata', '799'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/registry',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/registry', 'b0d'),
-    exact: true
-  },
-  {
-    path: '/learndevopsonline/build/__docusaurus/debug/routes',
-    component: ComponentCreator('/learndevopsonline/build/__docusaurus/debug/routes', '514'),
-    exact: true
-  },
-  {
     path: '/learndevopsonline/build/blog',
     component: ComponentCreator('/learndevopsonline/build/blog', 'b0d'),
     exact: true

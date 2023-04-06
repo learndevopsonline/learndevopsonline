@@ -1,327 +1,284 @@
 {
-  "/learndevopsonline/build/__docusaurus/debug-f8e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
-  "/learndevopsonline/build/__docusaurus/debug/config-189": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
-  "/learndevopsonline/build/__docusaurus/debug/content-5dd": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    },
-    "allContent": "allContent---learndevopsonline-build-docusaurus-debug-content-246-333"
-  },
-  "/learndevopsonline/build/__docusaurus/debug/globalData-5c5": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
-  "/learndevopsonline/build/__docusaurus/debug/metadata-799": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
-  "/learndevopsonline/build/__docusaurus/debug/registry-b0d": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
-  "/learndevopsonline/build/__docusaurus/debug/routes-514": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---learndevopsonline-build-docusaurus-debug-378-fa2"
-    }
-  },
   "/learndevopsonline/build/blog-b0d": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---learndevopsonline-build-blog-766-588"
+        "content": "7661071f"
       },
       {
-        "content": "content---learndevopsonline-build-blogf-4-f-2c0"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---learndevopsonline-build-blog-871-f79"
+        "content": "8717b14a"
       },
       {
-        "content": "content---learndevopsonline-build-blog-925-925"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---learndevopsonline-build-blogcd-7-e87"
+    "metadata": "cd74f098"
   },
   "/learndevopsonline/build/blog/archive-84b": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "archive": "archive---learndevopsonline-build-blog-archive-82-e-792"
+    "archive": "82efa2bb"
   },
   "/learndevopsonline/build/blog/first-blog-post-d88": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
-    "content": "content---learndevopsonline-build-blog-first-blog-poste-27-9af"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/learndevopsonline/build/blog/long-blog-post-4d0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
-    "content": "content---learndevopsonline-build-blog-long-blog-post-736-70c"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/learndevopsonline/build/blog/mdx-blog-post-169": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
-    "content": "content---learndevopsonline-build-blog-mdx-blog-post-593-bbd"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/learndevopsonline/build/blog/tags-c20": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
-    "tags": "tags---learndevopsonline-build-blog-tagsef-5-126"
+    "sidebar": "814f3328",
+    "tags": "ef5eabe3"
   },
   "/learndevopsonline/build/blog/tags/docusaurus-222": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---learndevopsonline-build-blog-766-588"
+        "content": "7661071f"
       },
       {
-        "content": "content---learndevopsonline-build-blogf-4-f-2c0"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---learndevopsonline-build-blog-871-f79"
+        "content": "8717b14a"
       },
       {
-        "content": "content---learndevopsonline-build-blog-925-925"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---learndevopsonline-build-blog-tags-docusaurusd-5-a-af0",
-    "listMetadata": "listMetadata---learndevopsonline-build-blog-tags-docusaurus-4-a-4-1e2"
+    "tag": "d5aade44",
+    "listMetadata": "4a4eeddd"
   },
   "/learndevopsonline/build/blog/tags/facebook-1a6": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---learndevopsonline-build-blog-766-588"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---learndevopsonline-build-blog-tags-facebook-3-d-7-50c",
-    "listMetadata": "listMetadata---learndevopsonline-build-blog-tags-facebookd-2-b-825"
+    "tag": "3d74cdc4",
+    "listMetadata": "d2bb2bf4"
   },
   "/learndevopsonline/build/blog/tags/hello-e70": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---learndevopsonline-build-blog-766-588"
+        "content": "7661071f"
       },
       {
-        "content": "content---learndevopsonline-build-blog-871-f79"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---learndevopsonline-build-blog-tags-hellofc-1-1bf",
-    "listMetadata": "listMetadata---learndevopsonline-build-blog-tags-hello-4-bb-82a"
+    "tag": "fc1a8d91",
+    "listMetadata": "4bba2afa"
   },
   "/learndevopsonline/build/blog/tags/hola-760": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---learndevopsonline-build-blog-925-925"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---learndevopsonline-build-blog-tags-holafb-6-c7b",
-    "listMetadata": "listMetadata---learndevopsonline-build-blog-tags-holaed-2-ecb"
+    "tag": "fb62226b",
+    "listMetadata": "ed28db42"
   },
   "/learndevopsonline/build/blog/welcome-5da": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-blog-9-bf-a11"
+      "plugin": "9bf9e7b4"
     },
-    "sidebar": "sidebar---learndevopsonline-build-blog-814-9bb",
-    "content": "content---learndevopsonline-build-blog-welcomed-9-f-31d"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/learndevopsonline/build/markdown-page-2b7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-markdown-page-606-0ca"
+      "plugin": "6062eff1"
     },
-    "content": "content---learndevopsonline-build-markdown-page-393-73e"
+    "content": "393be207"
   },
   "/learndevopsonline/build/docs-392": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-docsd-77-287"
+      "plugin": "d77a4d73"
     },
-    "versionMetadata": "versionMetadata---learndevopsonline-build-docs-935-de9"
+    "versionMetadata": "935f2afb"
   },
   "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor-35b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-bonus-videos-aws-cloud-9-service-as-editor-966-7a7"
+    "__comp": "17896441",
+    "content": "966679ea"
   },
   "/learndevopsonline/build/docs/category/additional-videos-4e4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---learndevopsonline-build-docs-category-additional-videos-745-031"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "74542498"
   },
   "/learndevopsonline/build/docs/category/how-tos-cc5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---learndevopsonline-build-docs-category-how-tos-081-27b"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0818ef9b"
   },
   "/learndevopsonline/build/docs/category/linux-commands-802": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---learndevopsonline-build-docs-category-linux-commands-04-b-0e7"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "04b7eb47"
   },
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---learndevopsonline-build-docs-category-roboshop-project-setup-documentation-405-406"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "405f1162"
   },
   "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor-9fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-aws-cloud-9-service-as-editor-652-dbc"
+    "__comp": "17896441",
+    "content": "6523df8b"
   },
   "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group-e39": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-create-allow-all-security-group-1-e-3-538"
+    "__comp": "17896441",
+    "content": "1e391087"
   },
   "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc-f63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-how-to-delete-default-vpccf-8-fbb"
+    "__comp": "17896441",
+    "content": "cf823bb1"
   },
   "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2-7b3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-how-to-increase-disk-size-of-ec-2924-d67"
+    "__comp": "17896441",
+    "content": "924b235a"
   },
   "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion-40d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-how-to-make-notes-with-notionb-9-f-861"
+    "__comp": "17896441",
+    "content": "b9f72aa7"
   },
   "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day-a2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-how-to-view-code-in-github-of-particular-day-030-cf0"
+    "__comp": "17896441",
+    "content": "030c0103"
   },
   "/learndevopsonline/build/docs/How-Tos/increase-spot-quota-e3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-increase-spot-quota-31-e-152"
+    "__comp": "17896441",
+    "content": "31edacbd"
   },
   "/learndevopsonline/build/docs/How-Tos/install-intellij-5cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-install-intellij-1-b-2-fb4"
+    "__comp": "17896441",
+    "content": "1b2db65d"
   },
   "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor-8ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-open-multiple-repos-in-one-editor-116-c6c"
+    "__comp": "17896441",
+    "content": "116a9154"
   },
   "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos-614": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-push-code-automatically-to-central-repos-421-694"
+    "__comp": "17896441",
+    "content": "421a6610"
   },
   "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request-fb6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-show-name-tag-in-spot-requestb-4-e-103"
+    "__comp": "17896441",
+    "content": "b4ede0b5"
   },
   "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup-2c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-how-tos-workstation-user-create-and-setup-790-2c4"
+    "__comp": "17896441",
+    "content": "790501cb"
   },
   "/learndevopsonline/build/docs/intro-9d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-intro-0-e-3-d51"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/learndevopsonline/build/docs/linux/linux-commands-962": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-linux-linux-commandsc-0-a-cf6"
+    "__comp": "17896441",
+    "content": "c0a68bf5"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/cart-b17": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-cartd-8-a-220"
+    "__comp": "17896441",
+    "content": "d8aabb97"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/catalogue-f7c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-catalogue-56-c-17d"
+    "__comp": "17896441",
+    "content": "56c81e46"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/dispatch-ed1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-dispatch-106-123"
+    "__comp": "17896441",
+    "content": "10649941"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/frontend-65f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-frontend-3-c-7-bdb"
+    "__comp": "17896441",
+    "content": "3c7a37ce"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/mongodb-bb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-mongodbe-1-d-ed2"
+    "__comp": "17896441",
+    "content": "e1d7fe1b"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/mysql-adb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-mysqlcb-7-ad4"
+    "__comp": "17896441",
+    "content": "cb7efee8"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/payment-ca7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-paymentb-9-a-9c3"
+    "__comp": "17896441",
+    "content": "b9abb97f"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/project-overview-8bc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-project-overviewdd-2-a30"
+    "__comp": "17896441",
+    "content": "dd26570c"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/rabbitmq-913": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-rabbitmqe-24-656"
+    "__comp": "17896441",
+    "content": "e247fa7f"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/redis-08f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-redisd-4-f-279"
+    "__comp": "17896441",
+    "content": "d4f22989"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/shipping-65c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-shippingc-20-5b8"
+    "__comp": "17896441",
+    "content": "c2076151"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/user-bb6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---learndevopsonline-build-docs-robo-shop-project-user-7-b-5-502"
+    "__comp": "17896441",
+    "content": "7b54ef42"
   },
   "/learndevopsonline/build/-b1c": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---learndevopsonline-build-markdown-page-606-0ca"
+      "plugin": "6062eff1"
     },
-    "config": "config---learndevopsonline-build-5-e-9-8ab"
+    "config": "5e9f5e1a"
   }
 }

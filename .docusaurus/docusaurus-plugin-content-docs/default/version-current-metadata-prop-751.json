@@ -185,7 +185,7 @@
           },
           {
             "type": "link",
-            "label": "How to Delete default VM.",
+            "label": "How to Delete default VPC.",
             "href": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc",
             "docId": "How-Tos/how-to-delete-default-vpc"
           }
@@ -230,7 +230,7 @@
     },
     "How-Tos/how-to-delete-default-vpc": {
       "id": "How-Tos/how-to-delete-default-vpc",
-      "title": "How to Delete default VM.",
+      "title": "How to Delete default VPC.",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "Increase Disk Size of a EC2 VM",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2"
+      "title": "How to Delete default VM.",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

@@ -1,0 +1,1280 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/learndevopsonline/build/docs",
+          "tagsPath": "/learndevopsonline/build/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/skalluru/repos/trcode/learndevopsonline-docs/sidebars.js",
+          "contentPath": "/Users/skalluru/repos/trcode/learndevopsonline-docs/docs",
+          "contentPathLocalized": "/Users/skalluru/repos/trcode/learndevopsonline-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "bonus-videos/aws-cloud9-service-as-editor",
+              "id": "bonus-videos/aws-cloud9-service-as-editor",
+              "title": "Problems with SSH KeyPair.",
+              "description": "Comment of the video if you need clarity on any part of the video.",
+              "source": "@site/docs/bonus-videos/aws-cloud9-service-as-editor.md",
+              "sourceDirName": "bonus-videos",
+              "slug": "/bonus-videos/aws-cloud9-service-as-editor",
+              "permalink": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonus-videos/aws-cloud9-service-as-editor.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Additional Videos",
+                "permalink": "/learndevopsonline/build/docs/category/additional-videos"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/aws-cloud9-service-as-editor",
+              "id": "How-Tos/aws-cloud9-service-as-editor",
+              "title": "Use Cloud9 as Editor instead of IntelliJ",
+              "description": "In cases if we don’t have intellij installed in your local desktop or laptop, you can approach for AWS Cloud9 Service. This can be used as both editor and workstation in parallel.",
+              "source": "@site/docs/How-Tos/aws-cloud9-service-as-editor.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/aws-cloud9-service-as-editor",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/aws-cloud9-service-as-editor.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Push Code Automatic to all repos",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos"
+              },
+              "next": {
+                "title": "How to see GitHub Code of Particular Day.",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/create-allow-all-security-group",
+              "id": "How-Tos/create-allow-all-security-group",
+              "title": "Create allow-all security group",
+              "description": "",
+              "source": "@site/docs/How-Tos/09-create-allow-all-security-group.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/create-allow-all-security-group",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/09-create-allow-all-security-group.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure IAM user for Workstation Instance.",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup"
+              },
+              "next": {
+                "title": "How to Make Notes Using Notion",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/how-to-delete-default-vpc",
+              "id": "How-Tos/how-to-delete-default-vpc",
+              "title": "How to Delete default VM.",
+              "description": "",
+              "source": "@site/docs/How-Tos/12-how-to-delete-default-vpc.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/how-to-delete-default-vpc",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/12-how-to-delete-default-vpc.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Increase Disk Size of a EC2 VM",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2"
+              },
+              "next": {
+                "title": "Additional Videos",
+                "permalink": "/learndevopsonline/build/docs/category/additional-videos"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/how-to-increase-disk-size-of-ec2",
+              "id": "How-Tos/how-to-increase-disk-size-of-ec2",
+              "title": "Increase Disk Size of a EC2 VM",
+              "description": "",
+              "source": "@site/docs/How-Tos/11-how-to-increase-disk-size-of-ec2.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/how-to-increase-disk-size-of-ec2",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/11-how-to-increase-disk-size-of-ec2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Make Notes Using Notion",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion"
+              },
+              "next": {
+                "title": "How to Delete default VM.",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/how-to-make-notes-with-notion",
+              "id": "How-Tos/how-to-make-notes-with-notion",
+              "title": "How to Make Notes Using Notion",
+              "description": "",
+              "source": "@site/docs/How-Tos/10-how-to-make-notes-with-notion.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/how-to-make-notes-with-notion",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-make-notes-with-notion",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/10-how-to-make-notes-with-notion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create allow-all security group",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group"
+              },
+              "next": {
+                "title": "Increase Disk Size of a EC2 VM",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/how-to-view-code-in-github-of-particular-day",
+              "id": "How-Tos/how-to-view-code-in-github-of-particular-day",
+              "title": "How to see GitHub Code of Particular Day.",
+              "description": "",
+              "source": "@site/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/how-to-view-code-in-github-of-particular-day",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/how-to-view-code-in-github-of-particular-day.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Use Cloud9 as Editor instead of IntelliJ",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor"
+              },
+              "next": {
+                "title": "Configure IAM user for Workstation Instance.",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/increase-spot-quota",
+              "id": "How-Tos/increase-spot-quota",
+              "title": "Increase Spot Request Quota in AWS",
+              "description": "",
+              "source": "@site/docs/How-Tos/increase-spot-quota.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/increase-spot-quota",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/increase-spot-quota.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Show Name in Spot Instances",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request"
+              },
+              "next": {
+                "title": "Install IntelliJ Editor on Desktop",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/install-intellij"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/install-intellij",
+              "id": "How-Tos/install-intellij",
+              "title": "Install IntelliJ Editor on Desktop",
+              "description": "In the above video you are going to see how to install IntelliJ in windows. You",
+              "source": "@site/docs/How-Tos/install-intellij.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/install-intellij",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/install-intellij",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/install-intellij.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Increase Spot Request Quota in AWS",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota"
+              },
+              "next": {
+                "title": "How to open multiple repos in one editor",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/open-multiple-repos-in-one-editor",
+              "id": "How-Tos/open-multiple-repos-in-one-editor",
+              "title": "How to open multiple repos in one editor",
+              "description": "Usually while working on multiple repos in parallel, Opening multiple windows might be bit lagging with performance. Hence we can take this approach and open multiple repositories in single IntelliJ window.",
+              "source": "@site/docs/How-Tos/open-multiple-repos-in-one-editor.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/open-multiple-repos-in-one-editor",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/open-multiple-repos-in-one-editor.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install IntelliJ Editor on Desktop",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/install-intellij"
+              },
+              "next": {
+                "title": "How to Push Code Automatic to all repos",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/push-code-automatically-to-central-repos",
+              "id": "How-Tos/push-code-automatically-to-central-repos",
+              "title": "How to Push Code Automatic to all repos",
+              "description": "Though it is unethical practice, yet we want to push the code to save some time, We can take this approach.",
+              "source": "@site/docs/How-Tos/push-code-automatically-to-central-repos.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/push-code-automatically-to-central-repos",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/push-code-automatically-to-central-repos.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to open multiple repos in one editor",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/open-multiple-repos-in-one-editor"
+              },
+              "next": {
+                "title": "Use Cloud9 as Editor instead of IntelliJ",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/show-name-tag-in-spot-request",
+              "id": "How-Tos/show-name-tag-in-spot-request",
+              "title": "Show Name in Spot Instances",
+              "description": "",
+              "source": "@site/docs/How-Tos/show-name-tag-in-spot-request.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/show-name-tag-in-spot-request",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/show-name-tag-in-spot-request.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How Tos",
+                "permalink": "/learndevopsonline/build/docs/category/how-tos"
+              },
+              "next": {
+                "title": "Increase Spot Request Quota in AWS",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/increase-spot-quota"
+              }
+            },
+            {
+              "unversionedId": "How-Tos/workstation-user-create-and-setup",
+              "id": "How-Tos/workstation-user-create-and-setup",
+              "title": "Configure IAM user for Workstation Instance.",
+              "description": "",
+              "source": "@site/docs/How-Tos/workstation-user-create-and-setup.md",
+              "sourceDirName": "How-Tos",
+              "slug": "/How-Tos/workstation-user-create-and-setup",
+              "permalink": "/learndevopsonline/build/docs/How-Tos/workstation-user-create-and-setup",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/workstation-user-create-and-setup.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to see GitHub Code of Particular Day.",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-view-code-in-github-of-particular-day"
+              },
+              "next": {
+                "title": "Create allow-all security group",
+                "permalink": "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "General",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/learndevopsonline/build/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Linux Commands",
+                "permalink": "/learndevopsonline/build/docs/category/linux-commands"
+              }
+            },
+            {
+              "unversionedId": "linux/linux-commands",
+              "id": "linux/linux-commands",
+              "title": "Linux Commands",
+              "description": "1. List Files & Directories",
+              "source": "@site/docs/linux/linux-commands.md",
+              "sourceDirName": "linux",
+              "slug": "/linux/linux-commands",
+              "permalink": "/learndevopsonline/build/docs/linux/linux-commands",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux-commands.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Linux Commands",
+                "permalink": "/learndevopsonline/build/docs/category/linux-commands"
+              },
+              "next": {
+                "title": "RoboShop Project Setup Documentation",
+                "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/cart",
+              "id": "RoboShop-Project/cart",
+              "title": "06-Cart",
+              "description": "Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.",
+              "source": "@site/docs/RoboShop-Project/cart.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/cart",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/cart",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/cart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "05-User",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/user"
+              },
+              "next": {
+                "title": "07-MySQL",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mysql"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/catalogue",
+              "id": "RoboShop-Project/catalogue",
+              "title": "03-Catalogue",
+              "description": "Catalogue is a microservice that is responsible for serving the list of items that displays in roboshop application.",
+              "source": "@site/docs/RoboShop-Project/catalogue.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/catalogue",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/catalogue",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/catalogue.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02-MongoDB",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mongodb"
+              },
+              "next": {
+                "title": "04-Redis",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/redis"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/dispatch",
+              "id": "RoboShop-Project/dispatch",
+              "title": "11-Dispatch",
+              "description": "Dispatch is the service which dispatches the product after purchase. It is written in GoLang, So wanted to install GoLang.",
+              "source": "@site/docs/RoboShop-Project/dispatch.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/dispatch",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/dispatch",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/dispatch.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "10-Payment",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/payment"
+              },
+              "next": {
+                "title": "How Tos",
+                "permalink": "/learndevopsonline/build/docs/category/how-tos"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/frontend",
+              "id": "RoboShop-Project/frontend",
+              "title": "01-Frontend",
+              "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+              "source": "@site/docs/RoboShop-Project/frontend.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/frontend",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/frontend",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/frontend.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Project Overview",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/project-overview"
+              },
+              "next": {
+                "title": "02-MongoDB",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mongodb"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/mongodb",
+              "id": "RoboShop-Project/mongodb",
+              "title": "02-MongoDB",
+              "description": "Developer has chosen the database MongoDB. Hence, we are trying to install it up and configure it.",
+              "source": "@site/docs/RoboShop-Project/mongodb.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/mongodb",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mongodb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/mongodb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01-Frontend",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/frontend"
+              },
+              "next": {
+                "title": "03-Catalogue",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/catalogue"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/mysql",
+              "id": "RoboShop-Project/mysql",
+              "title": "07-MySQL",
+              "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
+              "source": "@site/docs/RoboShop-Project/mysql.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/mysql",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mysql",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/mysql.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "06-Cart",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/cart"
+              },
+              "next": {
+                "title": "08-Shipping",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/shipping"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/payment",
+              "id": "RoboShop-Project/payment",
+              "title": "10-Payment",
+              "description": "This service is responsible for payments in RoboShop e-commerce app.",
+              "source": "@site/docs/RoboShop-Project/payment.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/payment",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/payment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/payment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "09-RabbitMQ",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/rabbitmq"
+              },
+              "next": {
+                "title": "11-Dispatch",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/dispatch"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/project-overview",
+              "id": "RoboShop-Project/project-overview",
+              "title": "Project Overview",
+              "description": "Project is having the following components.",
+              "source": "@site/docs/RoboShop-Project/project-overview.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/project-overview",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/project-overview",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/project-overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RoboShop Project Setup Documentation",
+                "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
+              },
+              "next": {
+                "title": "01-Frontend",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/frontend"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/rabbitmq",
+              "id": "RoboShop-Project/rabbitmq",
+              "title": "09-RabbitMQ",
+              "description": "RabbitMQ is a messaging Queue which is used by some components of the applications.",
+              "source": "@site/docs/RoboShop-Project/rabbitmq.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/rabbitmq",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/rabbitmq",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/rabbitmq.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "08-Shipping",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/shipping"
+              },
+              "next": {
+                "title": "10-Payment",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/payment"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/redis",
+              "id": "RoboShop-Project/redis",
+              "title": "04-Redis",
+              "description": "Redis is used for in-memory data storage(Caching) and allows users to access the data of database over API.",
+              "source": "@site/docs/RoboShop-Project/redis.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/redis",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/redis",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/redis.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "03-Catalogue",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/catalogue"
+              },
+              "next": {
+                "title": "05-User",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/user"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/shipping",
+              "id": "RoboShop-Project/shipping",
+              "title": "08-Shipping",
+              "description": "Shipping service is responsible for finding the distance of the package to be shipped and calculate the price based on that.",
+              "source": "@site/docs/RoboShop-Project/shipping.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/shipping",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/shipping",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/shipping.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "07-MySQL",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/mysql"
+              },
+              "next": {
+                "title": "09-RabbitMQ",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/rabbitmq"
+              }
+            },
+            {
+              "unversionedId": "RoboShop-Project/user",
+              "id": "RoboShop-Project/user",
+              "title": "05-User",
+              "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
+              "source": "@site/docs/RoboShop-Project/user.md",
+              "sourceDirName": "RoboShop-Project",
+              "slug": "/RoboShop-Project/user",
+              "permalink": "/learndevopsonline/build/docs/RoboShop-Project/user",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project/user.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "04-Redis",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/redis"
+              },
+              "next": {
+                "title": "06-Cart",
+                "permalink": "/learndevopsonline/build/docs/RoboShop-Project/cart"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Linux Commands",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "linux/linux-commands"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/linux-commands",
+                  "permalink": "/learndevopsonline/build/docs/category/linux-commands"
+                }
+              },
+              {
+                "type": "category",
+                "label": "RoboShop Project Setup Documentation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/project-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/frontend"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/mongodb"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/catalogue"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/redis"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/user"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/cart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/mysql"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/shipping"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/rabbitmq"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/payment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "RoboShop-Project/dispatch"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/roboshop-project-setup-documentation",
+                  "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation"
+                }
+              },
+              {
+                "type": "category",
+                "label": "How Tos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/show-name-tag-in-spot-request"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/increase-spot-quota"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/install-intellij"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/open-multiple-repos-in-one-editor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/push-code-automatically-to-central-repos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/aws-cloud9-service-as-editor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/how-to-view-code-in-github-of-particular-day"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/workstation-user-create-and-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/create-allow-all-security-group"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/how-to-make-notes-with-notion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/how-to-increase-disk-size-of-ec2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-Tos/how-to-delete-default-vpc"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/how-tos",
+                  "permalink": "/learndevopsonline/build/docs/category/how-tos"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Additional Videos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bonus-videos/aws-cloud9-service-as-editor"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Bonus videos that can help you to learn some extra concepts that we might not be able to cover as part of training.",
+                  "slug": "/category/additional-videos",
+                  "permalink": "/learndevopsonline/build/docs/category/additional-videos"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/learndevopsonline/build/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/learndevopsonline/build/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/learndevopsonline/build/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/learndevopsonline/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/learndevopsonline/build/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/learndevopsonline/build/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/learndevopsonline/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/learndevopsonline/build/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/learndevopsonline/build/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/learndevopsonline/build/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/learndevopsonline/build/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/learndevopsonline/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/learndevopsonline/build/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/learndevopsonline/build/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/learndevopsonline/build/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/learndevopsonline/build/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/learndevopsonline/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/learndevopsonline/build/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/learndevopsonline/build/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/learndevopsonline/build/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/learndevopsonline/build/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/learndevopsonline/build/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/learndevopsonline/build/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/learndevopsonline/build/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/learndevopsonline/build/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/learndevopsonline/build/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/learndevopsonline/build/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/learndevopsonline/build/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/learndevopsonline/build/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/learndevopsonline/build/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/learndevopsonline/build/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/learndevopsonline/build/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/learndevopsonline/build/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/learndevopsonline/build/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

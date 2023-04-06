@@ -58,7 +58,7 @@ mkdir /app
 Download the application code to created app directory. 
 
 ```shell
-curl -L -o /tmp/catalogue.zip https://roboshop-artifacts.s3.amazonaws.com/catalogue.zip 
+curl -o /tmp/catalogue.zip https://roboshop-artifacts.s3.amazonaws.com/catalogue.zip 
 cd /app 
 unzip /tmp/catalogue.zip
 ```
@@ -100,6 +100,10 @@ WantedBy=multi-user.target
 
 :::info
 Hint! You can create file by using **`vim /etc/systemd/system/catalogue.service`**
+:::
+
+:::caution Note
+Ensure you replace `<MONGODB-SERVER-IPADDRESS>` with IP address
 :::
 
 Load the service.
@@ -147,3 +151,8 @@ Load Schema
 ```shell 
 mongo --host MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
 ```
+
+:::caution Note
+You need to update catalogue server ip address in frontend configuration. 
+Configuration file is `/etc/nginx/default.d/roboshop.conf` 
+:::

@@ -182,6 +182,12 @@
             "label": "Increase Disk Size of a EC2 VM",
             "href": "/learndevopsonline/build/docs/How-Tos/how-to-increase-disk-size-of-ec2",
             "docId": "How-Tos/how-to-increase-disk-size-of-ec2"
+          },
+          {
+            "type": "link",
+            "label": "How to Delete default VM.",
+            "href": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc",
+            "docId": "How-Tos/how-to-delete-default-vpc"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -219,6 +225,12 @@
     "How-Tos/create-allow-all-security-group": {
       "id": "How-Tos/create-allow-all-security-group",
       "title": "Create allow-all security group",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/how-to-delete-default-vpc": {
+      "id": "How-Tos/how-to-delete-default-vpc",
+      "title": "How to Delete default VM.",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

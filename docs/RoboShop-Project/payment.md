@@ -5,7 +5,7 @@ sidebar_position: 11
 # 10-Payment 
 
 This service is responsible for payments in RoboShop e-commerce app.
-This service is written on `Python 3`, So need it to run this app.
+This service is written on `Python 3.6`, So need it to run this app.
 
 :::tip Hint
 Developer has chosen Python, Check with developer which version of Python is needed.

@@ -9,7 +9,7 @@ RabbitMQ is a messaging Queue which is used by some components of the applicatio
 Configure YUM Repos from the script provided by vendor.
 
 ```shell 
-curl -s https://packagecloud.io/install/repositories/rabbitmq/erlang/script.rpm.sh | sudo bash
+curl -s https://packagecloud.io/install/repositories/rabbitmq/erlang/script.rpm.sh | bash
 ```
 
 Install ErLang 
@@ -21,7 +21,7 @@ yum install erlang -y
 Configure YUM Repos for RabbitMQ.
 
 ```shell 
-curl -s https://packagecloud.io/install/repositories/rabbitmq/rabbitmq-server/script.rpm.sh | sudo bash
+curl -s https://packagecloud.io/install/repositories/rabbitmq/rabbitmq-server/script.rpm.sh | bash
 ```
 
 Install RabbitMQ 
@@ -41,7 +41,6 @@ RabbitMQ comes with a default username / password as `guest/guest`. But this use
 
 ```shell 
 rabbitmqctl add_user roboshop roboshop123
-rabbitmqctl set_user_tags roboshop administrator
 rabbitmqctl set_permissions -p / roboshop ".*" ".*" ".*"
 ```
 

@@ -66,6 +66,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How-Tos/setup-intellij-in-desktop",
+              "path": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/show-name-tag-in-spot-request",
               "path": "/learndevopsonline/build/docs/How-Tos/show-name-tag-in-spot-request",
               "sidebar": "tutorialSidebar"

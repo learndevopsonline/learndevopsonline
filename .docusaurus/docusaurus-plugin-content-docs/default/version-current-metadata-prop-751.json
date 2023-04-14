@@ -188,6 +188,12 @@
             "label": "How to Delete default VPC.",
             "href": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc",
             "docId": "How-Tos/how-to-delete-default-vpc"
+          },
+          {
+            "type": "link",
+            "label": "Steps to Setup IntelliJ Idea in Desktop and Steps to How to push the code",
+            "href": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop",
+            "docId": "How-Tos/setup-intellij-in-desktop"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -274,6 +280,12 @@
       "id": "How-Tos/push-code-automatically-to-central-repos",
       "title": "How to Push Code Automatic to all repos",
       "description": "Though it is unethical practice, yet we want to push the code to save some time, We can take this approach.",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/setup-intellij-in-desktop": {
+      "id": "How-Tos/setup-intellij-in-desktop",
+      "title": "Steps to Setup IntelliJ Idea in Desktop and Steps to How to push the code",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/show-name-tag-in-spot-request": {

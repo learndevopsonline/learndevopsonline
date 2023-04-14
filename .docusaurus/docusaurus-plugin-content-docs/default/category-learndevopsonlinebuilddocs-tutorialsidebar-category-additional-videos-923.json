@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "How to Delete default VPC.",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc"
+      "title": "Steps to Setup IntelliJ Idea in Desktop and Steps to How to push the code",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

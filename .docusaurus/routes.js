@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '392'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'e39'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -153,6 +153,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/push-code-automatically-to-central-repos', '614'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop', '9d6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

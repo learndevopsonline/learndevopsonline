@@ -14,5 +14,6 @@ sidebar_position: 13
 5. Open gitrepos and right click and click on "GitBash here"
 6. git clone URL
 7. Open Editor, Open gitrepos, Start editing, Commit from editor, Push from editor.
+    (While push for first time it will ask for GitHub login, Choose token approach)
 ```
 

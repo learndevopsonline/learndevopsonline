@@ -15,7 +15,7 @@ curl -s https://packagecloud.io/install/repositories/rabbitmq/erlang/script.rpm.
 Install ErLang 
 
 ```shell 
-yum install erlang -y
+yum install erlang-26.0 -y
 ```
 
 Configure YUM Repos for RabbitMQ.

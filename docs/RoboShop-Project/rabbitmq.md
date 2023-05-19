@@ -12,12 +12,6 @@ Configure YUM Repos from the script provided by vendor.
 curl -s https://packagecloud.io/install/repositories/rabbitmq/erlang/script.rpm.sh | bash
 ```
 
-Install ErLang 
-
-```shell 
-yum install erlang-26.0 -y
-```
-
 Configure YUM Repos for RabbitMQ.
 
 ```shell 

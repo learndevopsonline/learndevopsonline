@@ -28,7 +28,7 @@ Hint! You can create file by using **`vim /etc/yum.repos.d/mongo.repo`**
 Install MongoDB 
 
 ```shell 
-yum install mongodb-org -y 
+dnf install mongodb-org -y 
 ```
 
 Start & Enable MongoDB Service 

@@ -14,7 +14,7 @@ Developer has chosen Python, Check with developer which version of Python is nee
 Install Python 3.6
 
 ```shell 
-yum install python36 gcc python3-devel -y
+dnf install python36 gcc python3-devel -y
 ```
 
 Configure the application.

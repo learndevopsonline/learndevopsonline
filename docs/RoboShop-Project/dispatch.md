@@ -14,7 +14,7 @@ Developer has chosen GoLang, Check with developer which version of GoLang is nee
 Install GoLang
 
 ```shell 
-yum install golang -y
+dnf install golang -y
 ```
 
 Configure the application.

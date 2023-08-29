@@ -20,7 +20,7 @@ curl -sL https://rpm.nodesource.com/setup_lts.x | bash
 Install NodeJS 
 
 ```shell 
-yum install nodejs -y
+dnf install nodejs -y
 ```
 
 Configure the application.
@@ -142,7 +142,7 @@ enabled=1
 ```
 
 ```shell 
-yum install mongodb-org-shell -y
+dnf install mongodb-org-shell -y
 ```
 
 

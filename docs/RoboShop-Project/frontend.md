@@ -12,7 +12,7 @@ Developer has chosen Nginx as a web server and thus we will install Nginx Web Se
 
 Install Nginx 
 ```shell
-yum install nginx -y 
+dnf install nginx -y 
 ```
 
 Start & Enable Nginx service 

@@ -16,7 +16,7 @@ Here for our requirement java >= 1.8 & maven >=3.5 should work.
 :::
 
 ```shell 
-yum install maven -y
+dnf install maven -y
 ```
 
 Configure the application.
@@ -128,7 +128,7 @@ We need to load the schema. To load schema we need to install mysql client.
 To have it installed we can use
 
 ```shell
-yum install mysql -y 
+dnf install mysql -y 
 ```
 
 Load Schema

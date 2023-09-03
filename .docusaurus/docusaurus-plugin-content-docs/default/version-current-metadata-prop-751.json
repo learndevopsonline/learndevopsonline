@@ -113,6 +113,39 @@
       },
       {
         "type": "category",
+        "label": "Expense App Project Setup Documentation",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Project Overview",
+            "href": "/learndevopsonline/build/docs/Expense-Project/project-overview",
+            "docId": "Expense-Project/project-overview"
+          },
+          {
+            "type": "link",
+            "label": "01-Frontend",
+            "href": "/learndevopsonline/build/docs/Expense-Project/frontend",
+            "docId": "Expense-Project/frontend"
+          },
+          {
+            "type": "link",
+            "label": "02-MySQL",
+            "href": "/learndevopsonline/build/docs/Expense-Project/mysql",
+            "docId": "Expense-Project/mysql"
+          },
+          {
+            "type": "link",
+            "label": "03-Backend",
+            "href": "/learndevopsonline/build/docs/Expense-Project/backend",
+            "docId": "Expense-Project/backend"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation"
+      },
+      {
+        "type": "category",
         "label": "How Tos",
         "collapsible": true,
         "collapsed": true,
@@ -220,6 +253,30 @@
       "id": "bonus-videos/aws-cloud9-service-as-editor",
       "title": "Problems with SSH KeyPair.",
       "description": "Comment of the video if you need clarity on any part of the video.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project/backend": {
+      "id": "Expense-Project/backend",
+      "title": "03-Backend",
+      "description": "Backend service is responsible for adding the given values to database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project/frontend": {
+      "id": "Expense-Project/frontend",
+      "title": "01-Frontend",
+      "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project/mysql": {
+      "id": "Expense-Project/mysql",
+      "title": "02-MySQL",
+      "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project/project-overview": {
+      "id": "Expense-Project/project-overview",
+      "title": "Project Overview",
+      "description": "Project is having the following components.",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/aws-cloud9-service-as-editor": {

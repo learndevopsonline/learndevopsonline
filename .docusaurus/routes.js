@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'e39'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '4ba'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -75,6 +75,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/additional-videos',
         component: ComponentCreator('/learndevopsonline/build/docs/category/additional-videos', '4e4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/expense-app-project-setup-documentation', 'a97'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -93,6 +99,30 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
         component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation', 'cd2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project/backend',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project/backend', '653'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project/frontend',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project/frontend', '6fc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project/mysql',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project/mysql', 'eb5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project/project-overview',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project/project-overview', '809'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

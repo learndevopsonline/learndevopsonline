@@ -16,6 +16,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Expense-Project/backend",
+              "path": "/learndevopsonline/build/docs/Expense-Project/backend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project/frontend",
+              "path": "/learndevopsonline/build/docs/Expense-Project/frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project/mysql",
+              "path": "/learndevopsonline/build/docs/Expense-Project/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project/project-overview",
+              "path": "/learndevopsonline/build/docs/Expense-Project/project-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/aws-cloud9-service-as-editor",
               "path": "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor",
               "sidebar": "tutorialSidebar"
@@ -158,6 +178,11 @@
             {
               "id": "/category/roboshop-project-setup-documentation",
               "path": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/expense-app-project-setup-documentation",
+              "path": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation",
               "sidebar": "tutorialSidebar"
             },
             {

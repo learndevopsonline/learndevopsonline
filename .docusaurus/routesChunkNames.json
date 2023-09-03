@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-e39": {
+  "/learndevopsonline/build/docs-4ba": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "d77a4d73"
@@ -158,6 +158,10 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "74542498"
   },
+  "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation-a97": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9ac9801c"
+  },
   "/learndevopsonline/build/docs/category/how-tos-cc5": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "0818ef9b"
@@ -169,6 +173,22 @@
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "405f1162"
+  },
+  "/learndevopsonline/build/docs/Expense-Project/backend-653": {
+    "__comp": "17896441",
+    "content": "1a521d30"
+  },
+  "/learndevopsonline/build/docs/Expense-Project/frontend-6fc": {
+    "__comp": "17896441",
+    "content": "b0357234"
+  },
+  "/learndevopsonline/build/docs/Expense-Project/mysql-eb5": {
+    "__comp": "17896441",
+    "content": "ab871ee2"
+  },
+  "/learndevopsonline/build/docs/Expense-Project/project-overview-809": {
+    "__comp": "17896441",
+    "content": "54257f6f"
   },
   "/learndevopsonline/build/docs/How-Tos/aws-cloud9-service-as-editor-9fe": {
     "__comp": "17896441",

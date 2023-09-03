@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Expense-Project/mysql",
+  "id": "Expense-Project/mysql",
+  "title": "02-MySQL",
+  "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
+  "source": "@site/docs/Expense-Project/mysql.md",
+  "sourceDirName": "Expense-Project",
+  "slug": "/Expense-Project/mysql",
+  "permalink": "/learndevopsonline/build/docs/Expense-Project/mysql",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Expense-Project/mysql.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01-Frontend",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project/frontend"
+  },
+  "next": {
+    "title": "03-Backend",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project/backend"
+  }
+}

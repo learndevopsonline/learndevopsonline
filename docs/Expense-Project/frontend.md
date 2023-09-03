@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 01-Frontend
 
-The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.
+The frontend is the service in Expense to serve the web content over Nginx. This will have the webframe for the web application.
 
 This is a static content and to serve static content we need a web server. This server
 
@@ -46,18 +46,18 @@ unzip /tmp/frontend.zip
 ```
 
 :::info
-Try to access the nginx service once more over the browser and ensure you get roboshop content.
+Try to access the nginx service once more over the browser and ensure you get expense content.
 :::
 
 Create Nginx Reverse Proxy Configuration.
 
 ```shell 
-vim /etc/nginx/default.d/roboshop.conf 
+vim /etc/nginx/default.d/expense.conf 
 ```
 
 Add the following content 
 
-```nginx configuration title=/etc/nginx/default.d/roboshop.conf 
+```nginx configuration title=/etc/nginx/default.d/expense.conf 
 proxy_http_version 1.1;
 
 location /api/ { proxy_pass http://localhost:8080/; }

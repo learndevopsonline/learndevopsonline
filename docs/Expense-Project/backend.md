@@ -37,7 +37,7 @@ We already discussed in Linux basics section that applications should run as non
 Add application User
 
 ```shell 
-useradd roboshop
+useradd expense
 ```
 
 :::info

@@ -264,7 +264,7 @@
     "Expense-Project/frontend": {
       "id": "Expense-Project/frontend",
       "title": "01-Frontend",
-      "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+      "description": "The frontend is the service in Expense to serve the web content over Nginx. This will have the webframe for the web application.",
       "sidebar": "tutorialSidebar"
     },
     "Expense-Project/mysql": {

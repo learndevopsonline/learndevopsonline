@@ -87,7 +87,7 @@ Setup SystemD Expense Backend Service
 Description = Backend Service
 
 [Service]
-User=expensxe
+User=expense
 // highlight-start
 Environment=DB_HOST="<MYSQL-SERVER-IPADDRESS>"
 // highlight-end

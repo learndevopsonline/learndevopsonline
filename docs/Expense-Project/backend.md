@@ -12,13 +12,17 @@ Backend service is written in NodeJS, Hence we need to install NodeJS.
 **Developer has set a context that it can work with NodeJS >18**
 :::
 
-Setup NodeJS repos. Vendor is providing a script to setup the repos.
+Install NodeJS, By default NodeJS 10 is available, We would like to enable 18 version and install list.
+
+:::tip Hint
+**You can list modules by using `dnf module list`**
+:::
 
 ```shell 
-curl -sL https://rpm.nodesource.com/setup_lts.x | bash
+dnf module disable nodejs -y
+dnf module enable nodejs:18 -y
 ```
 
-Install NodeJS
 
 ```shell 
 dnf install nodejs -y

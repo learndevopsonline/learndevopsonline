@@ -123,32 +123,3 @@ Start the service.
 systemctl enable user 
 systemctl start user
 ```
-
-For the application to work fully functional we need to load schema to the Database. Then
-
-:::tip Info
-Schemas are usually part of application code and developer will provide them as part of development.
-:::
-
-We need to load the schema. To load schema we need to install mongodb client. 
-
-To have it installed we can setup MongoDB repo and install mongodb-client
-
-``` shell title=/etc/yum.repos.d/mongo.repo
-[mongodb-org-4.2]
-name=MongoDB Repository
-baseurl=https://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/4.2/x86_64/
-gpgcheck=0
-enabled=1
-```
-
-```shell 
-dnf install mongodb-org-shell -y
-```
-
-
-Load Schema 
-
-```shell 
-mongo --host MONGODB-SERVER-IPADDRESS </app/schema/user.js
-```

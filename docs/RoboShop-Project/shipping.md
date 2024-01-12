@@ -131,7 +131,7 @@ To have it installed we can use
 dnf install mysql -y 
 ```
 
-Load Schema
+Load Schema, This also includes the master data of all the countries and their cities with distance to those cities.
 
 ```shell 
 mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/schema/shipping.sql 

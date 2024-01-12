@@ -151,7 +151,7 @@ dnf install mongodb-org-shell -y
 ```
 
 
-Load Schema 
+Load Master Data of the List of products we want to sell and their quantity information also there in the same master data. 
 
 ```shell 
 mongo --host MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js

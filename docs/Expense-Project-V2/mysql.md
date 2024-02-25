@@ -35,5 +35,3 @@ You can check the new password working or not using the following command in MyS
 mysql -uroot -pExpenseApp@1
 ```
 
-
-

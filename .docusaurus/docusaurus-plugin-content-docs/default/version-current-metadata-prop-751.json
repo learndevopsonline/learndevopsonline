@@ -146,6 +146,39 @@
       },
       {
         "type": "category",
+        "label": "Expense App Project Setup Documentation - RHEL 9/CentOS 9",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Project Overview",
+            "href": "/learndevopsonline/build/docs/Expense-Project-V2/project-overview",
+            "docId": "Expense-Project-V2/project-overview"
+          },
+          {
+            "type": "link",
+            "label": "01-Frontend",
+            "href": "/learndevopsonline/build/docs/Expense-Project-V2/frontend",
+            "docId": "Expense-Project-V2/frontend"
+          },
+          {
+            "type": "link",
+            "label": "02-MySQL",
+            "href": "/learndevopsonline/build/docs/Expense-Project-V2/mysql",
+            "docId": "Expense-Project-V2/mysql"
+          },
+          {
+            "type": "link",
+            "label": "03-Backend",
+            "href": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
+            "docId": "Expense-Project-V2/backend"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9"
+      },
+      {
+        "type": "category",
         "label": "How Tos",
         "collapsible": true,
         "collapsed": true,
@@ -253,6 +286,30 @@
       "id": "bonus-videos/aws-cloud9-service-as-editor",
       "title": "Problems with SSH KeyPair.",
       "description": "Comment of the video if you need clarity on any part of the video.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project-V2/backend": {
+      "id": "Expense-Project-V2/backend",
+      "title": "03-Backend",
+      "description": "Backend service is responsible for adding the given values to database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project-V2/frontend": {
+      "id": "Expense-Project-V2/frontend",
+      "title": "01-Frontend",
+      "description": "The frontend is the service in Expense to serve the web content over Nginx. This will have the webframe for the web application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project-V2/mysql": {
+      "id": "Expense-Project-V2/mysql",
+      "title": "02-MySQL",
+      "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Expense-Project-V2/project-overview": {
+      "id": "Expense-Project-V2/project-overview",
+      "title": "Project Overview",
+      "description": "Project is having the following components.",
       "sidebar": "tutorialSidebar"
     },
     "Expense-Project/backend": {

@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/skalluru/repos/trcode/learndevopsonline-docs/sidebars.js",
+          "sidebarPath": "/Users/skalluru/repos/orgs/learndevopsonline/learndevopsonline/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/skalluru/repos/trcode/learndevopsonline-docs/src/css/custom.css"
+          "customCss": "/Users/skalluru/repos/orgs/learndevopsonline/learndevopsonline/src/css/custom.css"
         }
       }
     ]

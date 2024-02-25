@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Expense-Project-V2/frontend",
+  "id": "Expense-Project-V2/frontend",
+  "title": "01-Frontend",
+  "description": "The frontend is the service in Expense to serve the web content over Nginx. This will have the webframe for the web application.",
+  "source": "@site/docs/Expense-Project-V2/frontend.md",
+  "sourceDirName": "Expense-Project-V2",
+  "slug": "/Expense-Project-V2/frontend",
+  "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/frontend",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Expense-Project-V2/frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Overview",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/project-overview"
+  },
+  "next": {
+    "title": "02-MySQL",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/mysql"
+  }
+}

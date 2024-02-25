@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Expense-Project-V2/backend",
+  "id": "Expense-Project-V2/backend",
+  "title": "03-Backend",
+  "description": "Backend service is responsible for adding the given values to database.",
+  "source": "@site/docs/Expense-Project-V2/backend.md",
+  "sourceDirName": "Expense-Project-V2",
+  "slug": "/Expense-Project-V2/backend",
+  "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Expense-Project-V2/backend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02-MySQL",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/mysql"
+  },
+  "next": {
+    "title": "How Tos",
+    "permalink": "/learndevopsonline/build/docs/category/how-tos"
+  }
+}

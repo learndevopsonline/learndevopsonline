@@ -1,8 +1,8 @@
 {
-  "/learndevopsonline/build/blog-b0d": {
+  "/learndevopsonline/build/blog-3e0": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "items": [
@@ -21,49 +21,49 @@
     ],
     "metadata": "cd74f098"
   },
-  "/learndevopsonline/build/blog/archive-84b": {
+  "/learndevopsonline/build/blog/archive-7eb": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "archive": "82efa2bb"
   },
-  "/learndevopsonline/build/blog/first-blog-post-d88": {
+  "/learndevopsonline/build/blog/first-blog-post-8e5": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/learndevopsonline/build/blog/long-blog-post-4d0": {
+  "/learndevopsonline/build/blog/long-blog-post-da3": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/learndevopsonline/build/blog/mdx-blog-post-169": {
+  "/learndevopsonline/build/blog/mdx-blog-post-cbb": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/learndevopsonline/build/blog/tags-c20": {
+  "/learndevopsonline/build/blog/tags-24a": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "tags": "ef5eabe3"
   },
-  "/learndevopsonline/build/blog/tags/docusaurus-222": {
+  "/learndevopsonline/build/blog/tags/docusaurus-e04": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "items": [
@@ -83,10 +83,10 @@
     "tag": "d5aade44",
     "listMetadata": "4a4eeddd"
   },
-  "/learndevopsonline/build/blog/tags/facebook-1a6": {
+  "/learndevopsonline/build/blog/tags/facebook-df1": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "items": [
@@ -97,10 +97,10 @@
     "tag": "3d74cdc4",
     "listMetadata": "d2bb2bf4"
   },
-  "/learndevopsonline/build/blog/tags/hello-e70": {
+  "/learndevopsonline/build/blog/tags/hello-d04": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "items": [
@@ -114,10 +114,10 @@
     "tag": "fc1a8d91",
     "listMetadata": "4bba2afa"
   },
-  "/learndevopsonline/build/blog/tags/hola-760": {
+  "/learndevopsonline/build/blog/tags/hola-a5a": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "items": [
@@ -128,25 +128,25 @@
     "tag": "fb62226b",
     "listMetadata": "ed28db42"
   },
-  "/learndevopsonline/build/blog/welcome-5da": {
+  "/learndevopsonline/build/blog/welcome-f99": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "9bf9e7b4"
+      "plugin": "4d95a5d8"
     },
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/learndevopsonline/build/markdown-page-2b7": {
+  "/learndevopsonline/build/markdown-page-974": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "6062eff1"
+      "plugin": "181bda3b"
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-4ba": {
+  "/learndevopsonline/build/docs-615": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "d77a4d73"
+      "plugin": "7762e1e9"
     },
     "versionMetadata": "935f2afb"
   },
@@ -162,6 +162,10 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "9ac9801c"
   },
+  "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9-f09": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "45c10c60"
+  },
   "/learndevopsonline/build/docs/category/how-tos-cc5": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "0818ef9b"
@@ -173,6 +177,22 @@
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "405f1162"
+  },
+  "/learndevopsonline/build/docs/Expense-Project-V2/backend-de7": {
+    "__comp": "17896441",
+    "content": "0adb2342"
+  },
+  "/learndevopsonline/build/docs/Expense-Project-V2/frontend-338": {
+    "__comp": "17896441",
+    "content": "4d17d2fa"
+  },
+  "/learndevopsonline/build/docs/Expense-Project-V2/mysql-96f": {
+    "__comp": "17896441",
+    "content": "cbd3571b"
+  },
+  "/learndevopsonline/build/docs/Expense-Project-V2/project-overview-91f": {
+    "__comp": "17896441",
+    "content": "1a87ad4b"
   },
   "/learndevopsonline/build/docs/Expense-Project/backend-653": {
     "__comp": "17896441",
@@ -298,10 +318,10 @@
     "__comp": "17896441",
     "content": "7b54ef42"
   },
-  "/learndevopsonline/build/-b1c": {
+  "/learndevopsonline/build/-5f8": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "6062eff1"
+      "plugin": "181bda3b"
     },
     "config": "5e9f5e1a"
   }

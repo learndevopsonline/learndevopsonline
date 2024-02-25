@@ -4,67 +4,67 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/learndevopsonline/build/blog',
-    component: ComponentCreator('/learndevopsonline/build/blog', 'b0d'),
+    component: ComponentCreator('/learndevopsonline/build/blog', '3e0'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/archive',
-    component: ComponentCreator('/learndevopsonline/build/blog/archive', '84b'),
+    component: ComponentCreator('/learndevopsonline/build/blog/archive', '7eb'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/first-blog-post',
-    component: ComponentCreator('/learndevopsonline/build/blog/first-blog-post', 'd88'),
+    component: ComponentCreator('/learndevopsonline/build/blog/first-blog-post', '8e5'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/long-blog-post',
-    component: ComponentCreator('/learndevopsonline/build/blog/long-blog-post', '4d0'),
+    component: ComponentCreator('/learndevopsonline/build/blog/long-blog-post', 'da3'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/mdx-blog-post',
-    component: ComponentCreator('/learndevopsonline/build/blog/mdx-blog-post', '169'),
+    component: ComponentCreator('/learndevopsonline/build/blog/mdx-blog-post', 'cbb'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/tags',
-    component: ComponentCreator('/learndevopsonline/build/blog/tags', 'c20'),
+    component: ComponentCreator('/learndevopsonline/build/blog/tags', '24a'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/tags/docusaurus',
-    component: ComponentCreator('/learndevopsonline/build/blog/tags/docusaurus', '222'),
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/docusaurus', 'e04'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/tags/facebook',
-    component: ComponentCreator('/learndevopsonline/build/blog/tags/facebook', '1a6'),
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/facebook', 'df1'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/tags/hello',
-    component: ComponentCreator('/learndevopsonline/build/blog/tags/hello', 'e70'),
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/hello', 'd04'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/tags/hola',
-    component: ComponentCreator('/learndevopsonline/build/blog/tags/hola', '760'),
+    component: ComponentCreator('/learndevopsonline/build/blog/tags/hola', 'a5a'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/blog/welcome',
-    component: ComponentCreator('/learndevopsonline/build/blog/welcome', '5da'),
+    component: ComponentCreator('/learndevopsonline/build/blog/welcome', 'f99'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/markdown-page',
-    component: ComponentCreator('/learndevopsonline/build/markdown-page', '2b7'),
+    component: ComponentCreator('/learndevopsonline/build/markdown-page', '974'),
     exact: true
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '4ba'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '615'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -85,6 +85,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9', 'f09'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/learndevopsonline/build/docs/category/how-tos',
         component: ComponentCreator('/learndevopsonline/build/docs/category/how-tos', 'cc5'),
         exact: true,
@@ -99,6 +105,30 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation',
         component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation', 'cd2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project-V2/backend',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project-V2/backend', 'de7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project-V2/frontend',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project-V2/frontend', '338'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project-V2/mysql',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project-V2/mysql', '96f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Expense-Project-V2/project-overview',
+        component: ComponentCreator('/learndevopsonline/build/docs/Expense-Project-V2/project-overview', '91f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -292,7 +322,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/',
-    component: ComponentCreator('/learndevopsonline/build/', 'b1c'),
+    component: ComponentCreator('/learndevopsonline/build/', '5f8'),
     exact: true
   },
   {

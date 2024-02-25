@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Expense-Project-V2/project-overview",
+  "id": "Expense-Project-V2/project-overview",
+  "title": "Project Overview",
+  "description": "Project is having the following components.",
+  "source": "@site/docs/Expense-Project-V2/project-overview.md",
+  "sourceDirName": "Expense-Project-V2",
+  "slug": "/Expense-Project-V2/project-overview",
+  "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/project-overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Expense-Project-V2/project-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Expense App Project Setup Documentation - RHEL 9/CentOS 9",
+    "permalink": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9"
+  },
+  "next": {
+    "title": "01-Frontend",
+    "permalink": "/learndevopsonline/build/docs/Expense-Project-V2/frontend"
+  }
+}

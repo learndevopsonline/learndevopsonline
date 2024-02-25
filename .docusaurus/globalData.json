@@ -16,6 +16,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Expense-Project-V2/backend",
+              "path": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project-V2/frontend",
+              "path": "/learndevopsonline/build/docs/Expense-Project-V2/frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project-V2/mysql",
+              "path": "/learndevopsonline/build/docs/Expense-Project-V2/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Expense-Project-V2/project-overview",
+              "path": "/learndevopsonline/build/docs/Expense-Project-V2/project-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Expense-Project/backend",
               "path": "/learndevopsonline/build/docs/Expense-Project/backend",
               "sidebar": "tutorialSidebar"
@@ -183,6 +203,11 @@
             {
               "id": "/category/expense-app-project-setup-documentation",
               "path": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/expense-app-project-setup-documentation---rhel-9centos-9",
+              "path": "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9",
               "sidebar": "tutorialSidebar"
             },
             {

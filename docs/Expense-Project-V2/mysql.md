@@ -28,10 +28,3 @@ Next, We need to change the default root password in order to start using the da
 ```shell
 mysql_secure_installation --set-root-pass ExpenseApp@1
 ```
-
-You can check the new password working or not using the following command in MySQL.
-
-```shell
-mysql -uroot -pExpenseApp@1
-```
-

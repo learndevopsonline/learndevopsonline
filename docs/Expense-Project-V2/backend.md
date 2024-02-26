@@ -51,7 +51,7 @@ mkdir /app
 Download the application code to created app directory.
 
 ```shell
-curl -o /tmp/backend.zip https://expense-artifacts.s3.amazonaws.com/backend.zip 
+curl -o /tmp/backend.zip https://expense-artifacts.s3.amazonaws.com/expense-backend-v2.zip 
 cd /app 
 unzip /tmp/backend.zip
 ```

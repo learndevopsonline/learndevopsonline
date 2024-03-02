@@ -1,0 +1,15 @@
+{
+  "title": "RoboShop Project Setup Documentation - RHEL 9 / CentOS9",
+  "slug": "/category/roboshop-project-setup-documentation---rhel-9--centos9",
+  "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9",
+  "navigation": {
+    "previous": {
+      "title": "Problems with SSH KeyPair.",
+      "permalink": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor"
+    },
+    "next": {
+      "title": "Project Overview",
+      "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V2/project-overview"
+    }
+  }
+}

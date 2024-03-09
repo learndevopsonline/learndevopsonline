@@ -35,7 +35,7 @@ rm -rf /usr/share/nginx/html/*
 Download the frontend content
 
 ```shell
-curl -o /tmp/frontend.zip https://roboshop-artifacts.s3.amazonaws.com/frontend.zip 
+curl -o /tmp/frontend.zip https://roboshop-artifacts.s3.amazonaws.com/roboshop-frontend-v2.zip 
 ```
 
 Extract the frontend content.

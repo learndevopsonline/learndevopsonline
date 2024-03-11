@@ -251,6 +251,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool-Installation-Docs/GoCD-Installation",
+              "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/linux-commands",
               "path": "/learndevopsonline/build/docs/category/linux-commands",
               "sidebar": "tutorialSidebar"
@@ -283,6 +288,11 @@
             {
               "id": "/category/roboshop-project-setup-documentation---rhel-9--centos9",
               "path": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tools-installation-steps",
+              "path": "/learndevopsonline/build/docs/category/tools-installation-steps",
               "sidebar": "tutorialSidebar"
             }
           ],

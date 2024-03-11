@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-398": {
+  "/learndevopsonline/build/docs-5e2": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -181,6 +181,10 @@
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-21f": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "480951fe"
+  },
+  "/learndevopsonline/build/docs/category/tools-installation-steps-c13": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a5a02bb1"
   },
   "/learndevopsonline/build/docs/Expense-Project-V2/backend-de7": {
     "__comp": "17896441",
@@ -369,6 +373,10 @@
   "/learndevopsonline/build/docs/RoboShop-Project/user-bb6": {
     "__comp": "17896441",
     "content": "7b54ef42"
+  },
+  "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation-5fd": {
+    "__comp": "17896441",
+    "content": "186ce14a"
   },
   "/learndevopsonline/build/-5f8": {
     "__comp": "c4f5d8e4",

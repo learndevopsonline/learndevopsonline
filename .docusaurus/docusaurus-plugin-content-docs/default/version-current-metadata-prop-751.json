@@ -359,6 +359,21 @@
           }
         ],
         "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9"
+      },
+      {
+        "type": "category",
+        "label": "Tools Installation Steps",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "GOCD Installation",
+            "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
+            "docId": "Tool-Installation-Docs/GoCD-Installation"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
       }
     ]
   },
@@ -649,6 +664,12 @@
       "id": "RoboShop-Project/user",
       "title": "05-User",
       "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tool-Installation-Docs/GoCD-Installation": {
+      "id": "Tool-Installation-Docs/GoCD-Installation",
+      "title": "GOCD Installation",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

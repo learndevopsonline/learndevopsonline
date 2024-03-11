@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '398'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '5e2'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -111,6 +111,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9',
         component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9', '21f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/tools-installation-steps',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/tools-installation-steps', 'c13'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -393,6 +399,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/RoboShop-Project/user',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/user', 'bb6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation',
+        component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation', '5fd'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

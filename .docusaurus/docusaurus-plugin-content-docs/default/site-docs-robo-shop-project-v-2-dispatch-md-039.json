@@ -19,5 +19,9 @@
   "previous": {
     "title": "10-Payment",
     "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V2/payment"
+  },
+  "next": {
+    "title": "Tools Installation Steps",
+    "permalink": "/learndevopsonline/build/docs/category/tools-installation-steps"
   }
 }

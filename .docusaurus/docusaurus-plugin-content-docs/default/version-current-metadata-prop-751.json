@@ -368,7 +368,7 @@
         "items": [
           {
             "type": "link",
-            "label": "GOCD Installation",
+            "label": "GOCD Server Installation",
             "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
             "docId": "Tool-Installation-Docs/GoCD-Installation"
           }
@@ -668,8 +668,8 @@
     },
     "Tool-Installation-Docs/GoCD-Installation": {
       "id": "Tool-Installation-Docs/GoCD-Installation",
-      "title": "GOCD Installation",
-      "description": "",
+      "title": "GOCD Server Installation",
+      "description": "Install Java",
       "sidebar": "tutorialSidebar"
     }
   }

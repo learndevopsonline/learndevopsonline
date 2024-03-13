@@ -2,7 +2,7 @@
   "unversionedId": "Tool-Installation-Docs/GoCD-Installation",
   "id": "Tool-Installation-Docs/GoCD-Installation",
   "title": "GOCD Server Installation",
-  "description": "Install Java",
+  "description": "Increase Disk Space for GoCD Server Setup.",
   "source": "@site/docs/Tool-Installation-Docs/01-GoCD-Installation.md",
   "sourceDirName": "Tool-Installation-Docs",
   "slug": "/Tool-Installation-Docs/GoCD-Installation",

@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # GOCD Server Installation
 
+Increase Disk Space for GoCD Server Setup.
+
+https://learndevopsonline.github.io/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9
+
 Install Java
 
 ```shell 

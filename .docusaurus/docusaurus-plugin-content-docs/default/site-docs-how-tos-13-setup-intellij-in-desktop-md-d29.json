@@ -21,7 +21,7 @@
     "permalink": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc"
   },
   "next": {
-    "title": "Additional Videos",
-    "permalink": "/learndevopsonline/build/docs/category/additional-videos"
+    "title": "Steps to Increase disk of LVM in RHEL 9.",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9"
   }
 }

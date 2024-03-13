@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "Steps to Setup IntelliJ Idea in Desktop and Steps to How to push the code",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop"
+      "title": "Steps to Increase disk of LVM in RHEL 9.",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

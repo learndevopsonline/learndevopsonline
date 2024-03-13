@@ -260,6 +260,12 @@
             "label": "Steps to Setup IntelliJ Idea in Desktop and Steps to How to push the code",
             "href": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop",
             "docId": "How-Tos/setup-intellij-in-desktop"
+          },
+          {
+            "type": "link",
+            "label": "Steps to Increase disk of LVM in RHEL 9.",
+            "href": "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9",
+            "docId": "How-Tos/extend-lvm-disk-in-rhel9"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/how-tos"
@@ -442,6 +448,12 @@
       "id": "How-Tos/create-allow-all-security-group",
       "title": "Create allow-all security group",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-Tos/extend-lvm-disk-in-rhel9": {
+      "id": "How-Tos/extend-lvm-disk-in-rhel9",
+      "title": "Steps to Increase disk of LVM in RHEL 9.",
+      "description": "1. Stop the EC2 in case if you created the machine.",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/how-to-delete-default-vpc": {

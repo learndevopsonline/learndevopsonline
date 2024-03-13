@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '5e2'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '86c'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -177,6 +177,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group', 'e39'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9', 'f5c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

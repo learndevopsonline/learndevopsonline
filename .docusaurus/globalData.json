@@ -66,6 +66,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How-Tos/extend-lvm-disk-in-rhel9",
+              "path": "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-Tos/how-to-delete-default-vpc",
               "path": "/learndevopsonline/build/docs/How-Tos/how-to-delete-default-vpc",
               "sidebar": "tutorialSidebar"

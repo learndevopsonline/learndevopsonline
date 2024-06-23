@@ -7,10 +7,11 @@ sidebar_position: 7
 Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.
 
 :::tip Hint
-Developer has chosen NodeJs, Check with developer which version of NodeJS is needed. 
+**Developer has chosen NodeJs, Check with developer which version of NodeJS is needed.**
+**Developer has set a context that it can work with NodeJS >20**
 :::
 
-Install NodeJS, By default NodeJS 10 is available, We would like to enable 20 version and install list.
+Install NodeJS, By default NodeJS 16 is available, We would like to enable 20 version and install list.
 
 :::tip Hint
 **You can list modules by using `dnf module list`**
@@ -64,7 +65,7 @@ Download the application code to created app directory.
 ```shell
 curl -L -o /tmp/cart.zip https://roboshop-artifacts.s3.amazonaws.com/cart-v3.zip
 cd /app 
-unzip /tmp/cart-v3.zip
+unzip /tmp/cart.zip
 ```
 
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.

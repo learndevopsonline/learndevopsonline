@@ -8,10 +8,10 @@ Catalogue is a microservice that is responsible for serving the list of items th
 
 :::tip Hint
 **Developer has chosen NodeJs, Check with developer which version of NodeJS is needed.**
-**Developer has set a context that it can work with NodeJS >18**
+**Developer has set a context that it can work with NodeJS >20**
 :::
 
-Install NodeJS, By default NodeJS 10 is available, We would like to enable 20 version and install list.
+Install NodeJS, By default NodeJS 16 is available, We would like to enable 20 version and install list.
 
 :::tip Hint
 **You can list modules by using `dnf module list`**
@@ -65,7 +65,7 @@ Download the application code to created app directory.
 ```shell
 curl -o /tmp/catalogue.zip https://roboshop-artifacts.s3.amazonaws.com/catalogue-v3.zip 
 cd /app 
-unzip /tmp/catalogue-v3.zip
+unzip /tmp/catalogue.zip
 ```
 
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.
@@ -159,5 +159,5 @@ mongo --host MONGODB-SERVER-IPADDRESS </app/db/master-data.js
 
 :::caution Note
 You need to update catalogue server ip address in frontend configuration. 
-Configuration file is `/etc/nginx/default.d/roboshop.conf` 
+Configuration file is `/etc/nginx/nginx.conf` 
 :::

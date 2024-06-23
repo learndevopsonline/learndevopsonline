@@ -56,7 +56,7 @@ Download the application code to created app directory.
 ```shell
 curl -L -o /tmp/shipping.zip https://roboshop-artifacts.s3.amazonaws.com/shipping-v3.zip 
 cd /app 
-unzip /tmp/shipping-v3.zip
+unzip /tmp/shipping.zip
 ```
 
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.
@@ -131,12 +131,23 @@ To have it installed we can use
 dnf install mysql -y 
 ```
 
-Load Schema, This also includes the master data of all the countries and their cities with distance to those cities.
+Load Schema, Schema in database is the structure to it like what tables to be created and their necessary application layouts.
+
+```shell 
+mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/schema.sql
+```
+
+Load Master Data, This includes the data of all the countries and their cities with distance to those cities.
+
+```shell 
+mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/master-data.sql
+```
+
+Create app user, MySQL expects a password authentication, Hence we need to create the user in mysql database for shipping app to connect.
 
 ```shell 
 mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/app-user.sql 
 ```
-
 
 This service needs a restart because it is dependent on schema, After loading schema only it will work as expected, Hence we are restarting this service. This
 

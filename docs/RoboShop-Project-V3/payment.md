@@ -5,16 +5,16 @@ sidebar_position: 11
 # 10-Payment 
 
 This service is responsible for payments in RoboShop e-commerce app.
-This service is written on `Python 3.6`, So need it to run this app.
+This service is written on `Python 3`, So need it to run this app.
 
 :::tip Hint
 Developer has chosen Python, Check with developer which version of Python is needed.
 :::
 
-Install Python 3.6
+Install Python 3
 
 ```shell 
-dnf install python36 gcc python3-devel -y
+dnf install python3 gcc python3-devel -y
 ```
 
 Configure the application.
@@ -54,7 +54,7 @@ Download the application code to created app directory.
 ```shell
 curl -L -o /tmp/payment.zip https://roboshop-artifacts.s3.amazonaws.com/payment-v3.zip 
 cd /app 
-unzip /tmp/payment-v3.zip
+unzip /tmp/payment.zip
 ```
 
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.

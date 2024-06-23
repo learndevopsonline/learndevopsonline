@@ -136,66 +136,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RoboShop-Project-V2/cart",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/cart",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/catalogue",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/catalogue",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/dispatch",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/dispatch",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/frontend",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/frontend",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/mongodb",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/mongodb",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/mysql",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/mysql",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/payment",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/payment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/project-overview",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/project-overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/rabbitmq",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/rabbitmq",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/redis",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/redis",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/shipping",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/shipping",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-V2/user",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-V2/user",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "RoboShop-Project-V3/cart",
               "path": "/learndevopsonline/build/docs/RoboShop-Project-V3/cart",
               "sidebar": "tutorialSidebar"
@@ -353,11 +293,6 @@
             {
               "id": "/category/roboshop-project-setup-documentation---rhel-9--centos9",
               "path": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/roboshop-project-setup-documentation---rhel-9--centos9-1",
-              "path": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1",
               "sidebar": "tutorialSidebar"
             },
             {

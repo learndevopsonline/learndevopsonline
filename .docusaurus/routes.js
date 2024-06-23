@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'aab'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '9fe'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -111,12 +111,6 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9',
         component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9', '21f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1',
-        component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1', '513'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -267,78 +261,6 @@ export default [
       {
         path: '/learndevopsonline/build/docs/linux/linux-commands',
         component: ComponentCreator('/learndevopsonline/build/docs/linux/linux-commands', '962'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/cart',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/cart', '187'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/catalogue',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/catalogue', '5bb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/dispatch',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/dispatch', 'b6c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/frontend',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/frontend', '6a1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/mongodb',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/mongodb', '7bc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/mysql',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/mysql', 'a4b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/payment',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/payment', 'e90'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/project-overview',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/project-overview', 'bbf'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/rabbitmq',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/rabbitmq', '72f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/redis',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/redis', '57c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/shipping',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/shipping', 'bd2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-V2/user',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-V2/user', '96d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

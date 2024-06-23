@@ -10,7 +10,7 @@ Cart is a microservice that is responsible for Cart Service in RobotShop e-comme
 Developer has chosen NodeJs, Check with developer which version of NodeJS is needed. 
 :::
 
-Install NodeJS, By default NodeJS 10 is available, We would like to enable 18 version and install list.
+Install NodeJS, By default NodeJS 10 is available, We would like to enable 20 version and install list.
 
 :::tip Hint
 **You can list modules by using `dnf module list`**

@@ -287,7 +287,7 @@
       },
       {
         "type": "category",
-        "label": "RoboShop Project Setup Documentation - RHEL 9 / CentOS9",
+        "label": "RoboShop Project Setup Documentation - RHEL 9",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -364,7 +364,7 @@
             "docId": "RoboShop-Project-V3/dispatch"
           }
         ],
-        "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9"
+        "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9"
       },
       {
         "type": "category",

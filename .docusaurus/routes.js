@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '9fe'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'c47'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -109,8 +109,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9',
-        component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9', '21f'),
+        path: '/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9', '87c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

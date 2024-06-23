@@ -1,7 +1,7 @@
 {
-  "title": "RoboShop Project Setup Documentation - RHEL 9 / CentOS9",
-  "slug": "/category/roboshop-project-setup-documentation---rhel-9--centos9",
-  "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9",
+  "title": "RoboShop Project Setup Documentation - RHEL 9",
+  "slug": "/category/roboshop-project-setup-documentation---rhel-9",
+  "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9",
   "navigation": {
     "previous": {
       "title": "Problems with SSH KeyPair.",

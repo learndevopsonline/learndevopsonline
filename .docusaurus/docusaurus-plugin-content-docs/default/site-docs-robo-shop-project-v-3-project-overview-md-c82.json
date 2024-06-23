@@ -1,0 +1,27 @@
+{
+  "unversionedId": "RoboShop-Project-V3/project-overview",
+  "id": "RoboShop-Project-V3/project-overview",
+  "title": "Project Overview",
+  "description": "Project is having the following components.",
+  "source": "@site/docs/RoboShop-Project-V3/project-overview.md",
+  "sourceDirName": "RoboShop-Project-V3",
+  "slug": "/RoboShop-Project-V3/project-overview",
+  "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project-V3/project-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RoboShop Project Setup Documentation - RHEL 9 / CentOS9",
+    "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1"
+  },
+  "next": {
+    "title": "01-Frontend",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/frontend"
+  }
+}

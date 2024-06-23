@@ -368,6 +368,87 @@
       },
       {
         "type": "category",
+        "label": "RoboShop Project Setup Documentation - RHEL 9 / CentOS9",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Project Overview",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview",
+            "docId": "RoboShop-Project-V3/project-overview"
+          },
+          {
+            "type": "link",
+            "label": "01-Frontend",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/frontend",
+            "docId": "RoboShop-Project-V3/frontend"
+          },
+          {
+            "type": "link",
+            "label": "02-MongoDB",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/mongodb",
+            "docId": "RoboShop-Project-V3/mongodb"
+          },
+          {
+            "type": "link",
+            "label": "03-Catalogue",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/catalogue",
+            "docId": "RoboShop-Project-V3/catalogue"
+          },
+          {
+            "type": "link",
+            "label": "04-Redis",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/redis",
+            "docId": "RoboShop-Project-V3/redis"
+          },
+          {
+            "type": "link",
+            "label": "05-User",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/user",
+            "docId": "RoboShop-Project-V3/user"
+          },
+          {
+            "type": "link",
+            "label": "06-Cart",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/cart",
+            "docId": "RoboShop-Project-V3/cart"
+          },
+          {
+            "type": "link",
+            "label": "07-MySQL",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/mysql",
+            "docId": "RoboShop-Project-V3/mysql"
+          },
+          {
+            "type": "link",
+            "label": "08-Shipping",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/shipping",
+            "docId": "RoboShop-Project-V3/shipping"
+          },
+          {
+            "type": "link",
+            "label": "09-RabbitMQ",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/rabbitmq",
+            "docId": "RoboShop-Project-V3/rabbitmq"
+          },
+          {
+            "type": "link",
+            "label": "10-Payment",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/payment",
+            "docId": "RoboShop-Project-V3/payment"
+          },
+          {
+            "type": "link",
+            "label": "11-Dispatch",
+            "href": "/learndevopsonline/build/docs/RoboShop-Project-V3/dispatch",
+            "docId": "RoboShop-Project-V3/dispatch"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1"
+      },
+      {
+        "type": "category",
         "label": "Tools Installation Steps",
         "collapsible": true,
         "collapsed": true,
@@ -602,6 +683,78 @@
     },
     "RoboShop-Project-V2/user": {
       "id": "RoboShop-Project-V2/user",
+      "title": "05-User",
+      "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/cart": {
+      "id": "RoboShop-Project-V3/cart",
+      "title": "06-Cart",
+      "description": "Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/catalogue": {
+      "id": "RoboShop-Project-V3/catalogue",
+      "title": "03-Catalogue",
+      "description": "Catalogue is a microservice that is responsible for serving the list of items that displays in roboshop application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/dispatch": {
+      "id": "RoboShop-Project-V3/dispatch",
+      "title": "11-Dispatch",
+      "description": "Dispatch is the service which dispatches the product after purchase. It is written in GoLang, So wanted to install GoLang.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/frontend": {
+      "id": "RoboShop-Project-V3/frontend",
+      "title": "01-Frontend",
+      "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/mongodb": {
+      "id": "RoboShop-Project-V3/mongodb",
+      "title": "02-MongoDB",
+      "description": "Developer has chosen the database MongoDB. Hence, we are trying to install it up and configure it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/mysql": {
+      "id": "RoboShop-Project-V3/mysql",
+      "title": "07-MySQL",
+      "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/payment": {
+      "id": "RoboShop-Project-V3/payment",
+      "title": "10-Payment",
+      "description": "This service is responsible for payments in RoboShop e-commerce app.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/project-overview": {
+      "id": "RoboShop-Project-V3/project-overview",
+      "title": "Project Overview",
+      "description": "Project is having the following components.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/rabbitmq": {
+      "id": "RoboShop-Project-V3/rabbitmq",
+      "title": "09-RabbitMQ",
+      "description": "RabbitMQ is a messaging Queue which is used by some components of the applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/redis": {
+      "id": "RoboShop-Project-V3/redis",
+      "title": "04-Redis",
+      "description": "Redis is used for in-memory data storage(Caching) and allows users to access the data of database over API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/shipping": {
+      "id": "RoboShop-Project-V3/shipping",
+      "title": "08-Shipping",
+      "description": "Shipping service is responsible for finding the distance of the package to be shipped and calculate the price based on that.",
+      "sidebar": "tutorialSidebar"
+    },
+    "RoboShop-Project-V3/user": {
+      "id": "RoboShop-Project-V3/user",
       "title": "05-User",
       "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
       "sidebar": "tutorialSidebar"

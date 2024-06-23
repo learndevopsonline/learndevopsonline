@@ -1,0 +1,27 @@
+{
+  "unversionedId": "RoboShop-Project-V3/frontend",
+  "id": "RoboShop-Project-V3/frontend",
+  "title": "01-Frontend",
+  "description": "The frontend is the service in RoboShop to serve the web content over Nginx. This will have the webframe for the web application.",
+  "source": "@site/docs/RoboShop-Project-V3/frontend.md",
+  "sourceDirName": "RoboShop-Project-V3",
+  "slug": "/RoboShop-Project-V3/frontend",
+  "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/frontend",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project-V3/frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Overview",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview"
+  },
+  "next": {
+    "title": "02-MongoDB",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/mongodb"
+  }
+}

@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-86c": {
+  "/learndevopsonline/build/docs-aab": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -181,6 +181,10 @@
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-21f": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "480951fe"
+  },
+  "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9--centos9-1-513": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "66ba955b"
   },
   "/learndevopsonline/build/docs/category/tools-installation-steps-c13": {
     "__comp": "14eb3368",
@@ -329,6 +333,54 @@
   "/learndevopsonline/build/docs/RoboShop-Project-V2/user-96d": {
     "__comp": "17896441",
     "content": "2ee622c7"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/cart-4e8": {
+    "__comp": "17896441",
+    "content": "b0257681"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/catalogue-ba3": {
+    "__comp": "17896441",
+    "content": "f10c9bcb"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/dispatch-ed7": {
+    "__comp": "17896441",
+    "content": "749eafb9"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/frontend-a5c": {
+    "__comp": "17896441",
+    "content": "1ed25e56"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/mongodb-966": {
+    "__comp": "17896441",
+    "content": "e65a0527"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/mysql-5c4": {
+    "__comp": "17896441",
+    "content": "680815f9"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/payment-742": {
+    "__comp": "17896441",
+    "content": "b8411c82"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview-71d": {
+    "__comp": "17896441",
+    "content": "c821cfda"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/rabbitmq-ba2": {
+    "__comp": "17896441",
+    "content": "445d18df"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/redis-a49": {
+    "__comp": "17896441",
+    "content": "64e1cd0a"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/shipping-e42": {
+    "__comp": "17896441",
+    "content": "b13b6db3"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-V3/user-359": {
+    "__comp": "17896441",
+    "content": "658b7a21"
   },
   "/learndevopsonline/build/docs/RoboShop-Project/cart-b17": {
     "__comp": "17896441",

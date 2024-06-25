@@ -11,7 +11,7 @@ User is a microservice that is responsible  for User Logins and Registrations Se
 **Developer has set a context that it can work with NodeJS >18**
 :::
 
-Install NodeJS, By default NodeJS 16 is available, We would like to enable 18 version and install list.
+Install NodeJS, By default NodeJS 16 is available, We would like to enable 20 version and install list.
 
 :::tip Hint
 **You can list modules by using `dnf module list`**

@@ -6,6 +6,11 @@ sidebar_position: 10
 
 RabbitMQ is a messaging Queue which is used by some components of the applications.
 
+:::tip Hint
+**Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
+**Developer has shared the version information as RabbitMQ-3.x**
+:::
+
 Setup the RabbitMQ repo file
 
 ``` shell title=/etc/yum.repos.d/rabbitmq.repo

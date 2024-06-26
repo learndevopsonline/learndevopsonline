@@ -65,7 +65,7 @@ Download the application code to created app directory.
 ```shell
 curl -L -o /tmp/user.zip https://roboshop-artifacts.s3.amazonaws.com/user-v3.zip 
 cd /app 
-unzip /tmp/user-v3.zip
+unzip /tmp/user.zip
 ```
 
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.

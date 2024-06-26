@@ -8,7 +8,7 @@ User is a microservice that is responsible  for User Logins and Registrations Se
 
 :::tip Hint
 **Developer has chosen NodeJs, Check with developer which version of NodeJS is needed.**
-**Developer has set a context that it can work with NodeJS >18**
+**Developer has set a context that it can work with NodeJS >20**
 :::
 
 Install NodeJS, By default NodeJS 16 is available, We would like to enable 20 version and install list.

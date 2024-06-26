@@ -128,15 +128,18 @@ systemctl enable catalogue
 systemctl start catalogue
 ```
 
-For the application to work fully functional we need to load schema to the Database.
+For the application to work fully functional we need to load schema to the Database. Additonally we are going to have master data to be seeded for the applications to work. Here in this case it is list of products we want to sale.
+
 
 :::tip Info
 Schemas are usually part of application code and developer will provide them as part of development.
+
+Master data are usually provided by business operations team.
 :::
 
-We need to load the schema. To load schema we need to install mongodb client. 
+To load schema / master data we need to install mongodb client and then we can load it.
 
-To have it installed we can setup MongoDB repo and install mongodb-client  
+To have mongo client installed we have to setup MongoDB repo and install mongodb-client  
 
 ``` shell title=/etc/yum.repos.d/mongo.repo
 [mongodb-org-7.0]
@@ -154,7 +157,7 @@ dnf install mongodb-mongosh -y
 Load Master Data of the List of products we want to sell and their quantity information also there in the same master data. 
 
 ```shell 
-mongo --host MONGODB-SERVER-IPADDRESS </app/db/master-data.js
+mongosh --host MONGODB-SERVER-IPADDRESS </app/db/master-data.js
 ```
 
 :::caution Note

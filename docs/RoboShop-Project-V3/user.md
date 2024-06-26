@@ -93,7 +93,7 @@ Description = User Service
 User=roboshop
 Environment=MONGO=true
 // highlight-start
-Environment=REDIS_HOST=<REDIS-SERVER-IP>
+Environment=REDIS_URL='redis://<REDIS-IP-ADDRESS>:6379'
 Environment=MONGO_URL="mongodb://<MONGODB-SERVER-IP-ADDRESS>:27017/users"
 // highlight-end
 ExecStart=/bin/node /app/server.js

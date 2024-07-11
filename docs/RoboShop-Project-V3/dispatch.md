@@ -52,7 +52,7 @@ mkdir /app
 Download the application code to created app directory.
 
 ```shell
-curl -L -o /tmp/dispatch.zip https://roboshop-artifacts.s3.amazonaws.com/dispatch.zip 
+curl -L -o /tmp/dispatch.zip https://roboshop-artifacts.s3.amazonaws.com/dispatch-v3.zip 
 cd /app 
 unzip /tmp/dispatch.zip
 ```

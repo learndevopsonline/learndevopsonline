@@ -29,9 +29,7 @@ curl -L -o /tmp/go-server-23.5.0-18179.zip  https://download.gocd.org/binaries/2
 Switch to the gocd user 
 
 ```shell
-su - gocd 
-cd /home/gocd 
-unzip /tmp/go-server-23.5.0-18179.zip
+su - gocd -c 'unzip /tmp/go-server-23.5.0-18179.zip'
 ```
 
 Create a service file to start the service with systemctl
@@ -82,9 +80,7 @@ curl -L -o /tmp/go-agent-23.5.0-18179.zip https://download.gocd.org/binaries/23.
 Switch to the gocd user
 
 ```shell
-su - gocd 
-cd /home/gocd 
-unzip /tmp/go-agent-23.5.0-18179.zip
+su - gocd -c 'unzip /tmp/go-agent-23.5.0-18179.zip'
 ```
 
 Create a service file to start the service with systemctl
@@ -105,7 +101,7 @@ Environment=SYSTEMD_KILLMODE_WARNING=true
 WantedBy=multi-user.target
 ```
 
-Update GoCD server in configuration file `home/gocd/go-agent-23.5.0/wrapper-config/wrapper-properties.conf`  & Update line `wrapper.app.parameter.101` with `localhost` with gocd server ip address.
+Update GoCD server in configuration file `/home/gocd/go-agent-23.5.0/wrapper-config/wrapper-properties.conf`  & Update line `wrapper.app.parameter.101` with `localhost` with gocd server ip address.
 
 Load and start service.
 

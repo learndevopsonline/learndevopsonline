@@ -103,7 +103,7 @@ SyslogIdentifier=user
 WantedBy=multi-user.target
 ```
 
-:::hint RECAP
+:::info RECAP
 You can create file by using **`vim /etc/systemd/system/user.service`**
 :::
 

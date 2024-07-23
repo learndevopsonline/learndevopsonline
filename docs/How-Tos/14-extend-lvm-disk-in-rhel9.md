@@ -17,7 +17,7 @@ growpart /dev/nvme0n1 4
 Extend the volume of home to 5G from 1G 
 
 ```shell 
-lvextend -r -L 5G /dev/mapper/RootVG-homeVol
+lvextend -r -L +5G /dev/mapper/RootVG-homeVol
 ```
 
 

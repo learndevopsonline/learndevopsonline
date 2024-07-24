@@ -10,7 +10,7 @@ Redis is used for in-memory data storage(Caching) and allows users to access the
 **Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
 :::
 
-Install redis, By default redis ***  is available, We would like to enable 7 version and install list.
+Install redis, By default redis 6 is available, We would like to enable 7 version and install list.
 
 ```shell 
 dnf module disable redis -y

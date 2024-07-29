@@ -137,16 +137,16 @@ Load Schema, Schema in database is the structure to it like what tables to be cr
 mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/schema.sql
 ```
 
-Load Master Data, This includes the data of all the countries and their cities with distance to those cities.
-
-```shell 
-mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/master-data.sql
-```
-
 Create app user, MySQL expects a password authentication, Hence we need to create the user in mysql database for shipping app to connect.
 
 ```shell 
 mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/app-user.sql 
+```
+
+Load Master Data, This includes the data of all the countries and their cities with distance to those cities.
+
+```shell 
+mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/db/master-data.sql
 ```
 
 This service needs a restart because it is dependent on schema, After loading schema only it will work as expected, Hence we are restarting this service. This

@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-333": {
+  "/learndevopsonline/build/docs-959": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -302,10 +302,6 @@
     "__comp": "17896441",
     "content": "b4f4da3f"
   },
-  "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql-8a0": {
-    "__comp": "17896441",
-    "content": "5fab449b"
-  },
   "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment-68f": {
     "__comp": "17896441",
     "content": "04bd4d04"
@@ -313,14 +309,6 @@
   "/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview-7be": {
     "__comp": "17896441",
     "content": "3c49ff62"
-  },
-  "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq-753": {
-    "__comp": "17896441",
-    "content": "9fe9543e"
-  },
-  "/learndevopsonline/build/docs/RoboShop-Project-Docker/redis-d6b": {
-    "__comp": "17896441",
-    "content": "39dde881"
   },
   "/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping-a91": {
     "__comp": "17896441",

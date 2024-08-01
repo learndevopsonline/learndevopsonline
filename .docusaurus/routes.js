@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '333'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '959'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -295,12 +295,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql', '8a0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/payment',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/payment', '68f'),
         exact: true,
@@ -309,18 +303,6 @@ export default [
       {
         path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview', '7be'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq', '753'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/redis',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/redis', 'd6b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

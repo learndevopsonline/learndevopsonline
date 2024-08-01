@@ -156,11 +156,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RoboShop-Project-Docker/mysql",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "RoboShop-Project-Docker/payment",
               "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment",
               "sidebar": "tutorialSidebar"
@@ -168,16 +163,6 @@
             {
               "id": "RoboShop-Project-Docker/project-overview",
               "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-Docker/rabbitmq",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "RoboShop-Project-Docker/redis",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/redis",
               "sidebar": "tutorialSidebar"
             },
             {

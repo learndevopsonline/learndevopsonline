@@ -404,12 +404,6 @@
           },
           {
             "type": "link",
-            "label": "04-Redis",
-            "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/redis",
-            "docId": "RoboShop-Project-Docker/redis"
-          },
-          {
-            "type": "link",
             "label": "05-Shipping",
             "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping",
             "docId": "RoboShop-Project-Docker/shipping"
@@ -419,18 +413,6 @@
             "label": "06-Payment",
             "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment",
             "docId": "RoboShop-Project-Docker/payment"
-          },
-          {
-            "type": "link",
-            "label": "07-MySQL",
-            "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql",
-            "docId": "RoboShop-Project-Docker/mysql"
-          },
-          {
-            "type": "link",
-            "label": "09-RabbitMQ",
-            "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq",
-            "docId": "RoboShop-Project-Docker/rabbitmq"
           },
           {
             "type": "link",
@@ -633,12 +615,6 @@
       "description": "Replace catalogue-ip with actual IP or DNS record of catalogue server",
       "sidebar": "tutorialSidebar"
     },
-    "RoboShop-Project-Docker/mysql": {
-      "id": "RoboShop-Project-Docker/mysql",
-      "title": "07-MySQL",
-      "description": "Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.",
-      "sidebar": "tutorialSidebar"
-    },
     "RoboShop-Project-Docker/payment": {
       "id": "RoboShop-Project-Docker/payment",
       "title": "06-Payment",
@@ -649,18 +625,6 @@
       "id": "RoboShop-Project-Docker/project-overview",
       "title": "Project Overview",
       "description": "Project is having the following components.",
-      "sidebar": "tutorialSidebar"
-    },
-    "RoboShop-Project-Docker/rabbitmq": {
-      "id": "RoboShop-Project-Docker/rabbitmq",
-      "title": "09-RabbitMQ",
-      "description": "RabbitMQ is a messaging Queue which is used by some components of the applications.",
-      "sidebar": "tutorialSidebar"
-    },
-    "RoboShop-Project-Docker/redis": {
-      "id": "RoboShop-Project-Docker/redis",
-      "title": "04-Redis",
-      "description": "Redis is used for in-memory data storage(Caching) and allows users to access the data of database over API.",
       "sidebar": "tutorialSidebar"
     },
     "RoboShop-Project-Docker/shipping": {

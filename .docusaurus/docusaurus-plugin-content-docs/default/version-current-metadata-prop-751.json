@@ -413,12 +413,6 @@
             "label": "06-Payment",
             "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment",
             "docId": "RoboShop-Project-Docker/payment"
-          },
-          {
-            "type": "link",
-            "label": "11-Dispatch",
-            "href": "/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch",
-            "docId": "RoboShop-Project-Docker/dispatch"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/roboshop-project---docker-setup"
@@ -601,12 +595,6 @@
       "id": "RoboShop-Project-Docker/catalogue",
       "title": "02-Catalogue",
       "description": "Replace mongo-ip with actual IP or DNS record of mongodb server",
-      "sidebar": "tutorialSidebar"
-    },
-    "RoboShop-Project-Docker/dispatch": {
-      "id": "RoboShop-Project-Docker/dispatch",
-      "title": "11-Dispatch",
-      "description": "Dispatch is the service which dispatches the product after purchase. It is written in GoLang, So wanted to install GoLang.",
       "sidebar": "tutorialSidebar"
     },
     "RoboShop-Project-Docker/frontend": {

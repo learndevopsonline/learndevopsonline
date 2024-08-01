@@ -1,0 +1,27 @@
+{
+  "unversionedId": "RoboShop-Project-Docker/payment",
+  "id": "RoboShop-Project-Docker/payment",
+  "title": "10-Payment",
+  "description": "This service is responsible for payments in RoboShop e-commerce app.",
+  "source": "@site/docs/RoboShop-Project-Docker/payment.md",
+  "sourceDirName": "RoboShop-Project-Docker",
+  "slug": "/RoboShop-Project-Docker/payment",
+  "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project-Docker/payment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "09-RabbitMQ",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq"
+  },
+  "next": {
+    "title": "11-Dispatch",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch"
+  }
+}

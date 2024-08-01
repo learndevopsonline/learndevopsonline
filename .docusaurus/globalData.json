@@ -136,6 +136,66 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RoboShop-Project-Docker/cart",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/catalogue",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/catalogue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/dispatch",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/frontend",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/mongodb",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/mysql",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/payment",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/project-overview",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/rabbitmq",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/redis",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/redis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/shipping",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoboShop-Project-Docker/user",
+              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "RoboShop-Project-V3/cart",
               "path": "/learndevopsonline/build/docs/RoboShop-Project-V3/cart",
               "sidebar": "tutorialSidebar"
@@ -293,6 +353,11 @@
             {
               "id": "/category/roboshop-project-setup-documentation---rhel-9",
               "path": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/roboshop-project---docker-setup",
+              "path": "/learndevopsonline/build/docs/category/roboshop-project---docker-setup",
               "sidebar": "tutorialSidebar"
             },
             {

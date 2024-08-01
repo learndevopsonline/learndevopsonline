@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'c47'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'da7'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -99,6 +99,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/category/linux-commands',
         component: ComponentCreator('/learndevopsonline/build/docs/category/linux-commands', '802'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/roboshop-project---docker-setup',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/roboshop-project---docker-setup', '5ca'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -261,6 +267,78 @@ export default [
       {
         path: '/learndevopsonline/build/docs/linux/linux-commands',
         component: ComponentCreator('/learndevopsonline/build/docs/linux/linux-commands', '962'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/cart',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/cart', 'ecc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/catalogue',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/catalogue', '5e1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch', '276'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend', '2e1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb', 'f34'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql', '8a0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/payment',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/payment', '68f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview', '7be'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq', '753'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/redis',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/redis', 'd6b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping', 'a91'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/user',
+        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/user', '7e4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

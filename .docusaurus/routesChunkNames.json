@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-c47": {
+  "/learndevopsonline/build/docs-da7": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -173,6 +173,10 @@
   "/learndevopsonline/build/docs/category/linux-commands-802": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "04b7eb47"
+  },
+  "/learndevopsonline/build/docs/category/roboshop-project---docker-setup-5ca": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e43640e5"
   },
   "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation-cd2": {
     "__comp": "14eb3368",
@@ -281,6 +285,54 @@
   "/learndevopsonline/build/docs/linux/linux-commands-962": {
     "__comp": "17896441",
     "content": "c0a68bf5"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/cart-ecc": {
+    "__comp": "17896441",
+    "content": "eeb593a8"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/catalogue-5e1": {
+    "__comp": "17896441",
+    "content": "98989fac"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/dispatch-276": {
+    "__comp": "17896441",
+    "content": "150f2aee"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend-2e1": {
+    "__comp": "17896441",
+    "content": "b4f4da3f"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb-f34": {
+    "__comp": "17896441",
+    "content": "e9054a3c"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql-8a0": {
+    "__comp": "17896441",
+    "content": "5fab449b"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment-68f": {
+    "__comp": "17896441",
+    "content": "04bd4d04"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview-7be": {
+    "__comp": "17896441",
+    "content": "3c49ff62"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq-753": {
+    "__comp": "17896441",
+    "content": "9fe9543e"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/redis-d6b": {
+    "__comp": "17896441",
+    "content": "39dde881"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping-a91": {
+    "__comp": "17896441",
+    "content": "de63cd20"
+  },
+  "/learndevopsonline/build/docs/RoboShop-Project-Docker/user-7e4": {
+    "__comp": "17896441",
+    "content": "c87a4c76"
   },
   "/learndevopsonline/build/docs/RoboShop-Project-V3/cart-4e8": {
     "__comp": "17896441",

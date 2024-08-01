@@ -1,0 +1,27 @@
+{
+  "unversionedId": "RoboShop-Project-Docker/rabbitmq",
+  "id": "RoboShop-Project-Docker/rabbitmq",
+  "title": "09-RabbitMQ",
+  "description": "RabbitMQ is a messaging Queue which is used by some components of the applications.",
+  "source": "@site/docs/RoboShop-Project-Docker/rabbitmq.md",
+  "sourceDirName": "RoboShop-Project-Docker",
+  "slug": "/RoboShop-Project-Docker/rabbitmq",
+  "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoboShop-Project-Docker/rabbitmq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "08-Shipping",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/shipping"
+  },
+  "next": {
+    "title": "10-Payment",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment"
+  }
+}

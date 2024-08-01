@@ -1,0 +1,15 @@
+{
+  "title": "RoboShop Project - Docker Setup",
+  "slug": "/category/roboshop-project---docker-setup",
+  "permalink": "/learndevopsonline/build/docs/category/roboshop-project---docker-setup",
+  "navigation": {
+    "previous": {
+      "title": "11-Dispatch",
+      "permalink": "/learndevopsonline/build/docs/RoboShop-Project-V3/dispatch"
+    },
+    "next": {
+      "title": "Project Overview",
+      "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/project-overview"
+    }
+  }
+}

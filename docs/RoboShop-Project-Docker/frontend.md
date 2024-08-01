@@ -8,7 +8,7 @@ sidebar_position: 2
 ```shell 
 
 dnf install docker -y
-docker run -d -p 80:80 -e CATALOGUE_HOST=catalogue-ip -e CATALOGUE_PORT=catalogue-port -e USER_HOST=user-host -e USER_PORT=user-port -e CART_HOST=cart-host -e CART_PORT=cart-port -e SHIPPING_HOST=shipping-host -e SHIPPING_PORT=shipping-port-e PAYMENT_HOST=payment-host -e PAYMENT_PORT=payment-port  -it 973714476881.dkr.ecr.us-east-1.amazonaws.com/roboshop-v3/frontend
+docker run -d -p 80:80 -e CATALOGUE_HOST=catalogue-ip -e CATALOGUE_PORT=catalogue-port -e USER_HOST=user-host -e USER_PORT=user-port -e CART_HOST=cart-host -e CART_PORT=cart-port -e SHIPPING_HOST=shipping-host -e SHIPPING_PORT=shipping-port -e PAYMENT_HOST=payment-host -e PAYMENT_PORT=payment-port  973714476881.dkr.ecr.us-east-1.amazonaws.com/roboshop-v3/frontend
 
 ```
 

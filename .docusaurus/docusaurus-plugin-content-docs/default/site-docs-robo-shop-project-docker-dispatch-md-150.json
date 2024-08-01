@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "10-Payment",
-    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/payment"
+    "title": "09-RabbitMQ",
+    "permalink": "/learndevopsonline/build/docs/RoboShop-Project-Docker/rabbitmq"
   },
   "next": {
     "title": "Tools Installation Steps",

@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'da7'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '333'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -291,12 +291,6 @@ export default [
       {
         path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/frontend', '2e1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb',
-        component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb', 'f34'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

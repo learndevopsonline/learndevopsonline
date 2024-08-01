@@ -156,11 +156,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RoboShop-Project-Docker/mongodb",
-              "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mongodb",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "RoboShop-Project-Docker/mysql",
               "path": "/learndevopsonline/build/docs/RoboShop-Project-Docker/mysql",
               "sidebar": "tutorialSidebar"

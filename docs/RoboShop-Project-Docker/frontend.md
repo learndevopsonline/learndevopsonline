@@ -16,18 +16,23 @@ docker run -d -p 80:80 -e CATALOGUE_HOST=catalogue-ip -e CATALOGUE_PORT=catalogu
 :::info Note
 
 Replace `catalogue-ip` with actual IP or DNS record of catalogue server
+
 Replace `catalogue-port` with actual catalogue port
 
 Replace `user-ip` with actual IP or DNS record of user server
+
 Replace `user-port` with actual user port
 
 Replace `cart-ip` with actual IP or DNS record of cart server
+
 Replace `cart-port` with actual cart port
 
 Replace `shipping-ip` with actual IP or DNS record of shipping server
+
 Replace `shipping-port` with actual shipping port
 
 Replace `payment-ip` with actual IP or DNS record of payment server
+
 Replace `payment-port` with actual payment port
 
 :::

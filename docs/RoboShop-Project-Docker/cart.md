@@ -8,7 +8,7 @@ sidebar_position: 5
 ```shell 
 
 dnf install docker -y
-docker run -d -p 8080:8080 -e CATALOGUE_HOST=catalogue-ip -e CATALOGUE_PORT=8080 -e REDIS_HOST=redis-ip 973714476881.dkr.ecr.us-east-1.amazonaws.com/roboshop-v3/cart
+docker run -d -p 8080:8080 -e CATALOGUE_HOST=catalogue-ip -e CATALOGUE_PORT=8080 -e REDIS_HOST=redis-ip public.ecr.aws/w8x4g9h7/roboshop-v3/cart
 
 ```
 

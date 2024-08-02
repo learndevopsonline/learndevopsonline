@@ -8,7 +8,7 @@ sidebar_position: 4
 ```shell 
 
 dnf install docker -y
-docker run -d -p 8080:8080 -e MONGO=true -e MONGO_URL="mongodb://mongo-ip:27017/users" -e REDIS_HOST=redis-ip 973714476881.dkr.ecr.us-east-1.amazonaws.com/roboshop-v3/user
+docker run -d -p 8080:8080 -e MONGO=true -e MONGO_URL="mongodb://mongo-ip:27017/users" -e REDIS_HOST=redis-ip public.ecr.aws/w8x4g9h7/roboshop-v3/user
 
 ```
 

@@ -8,7 +8,7 @@ sidebar_position: 6
 ```shell 
 
 dnf install docker -y
-docker run -d -p 8080:8080 -e CART_ENDPOINT=cart-ip -e DB_HOST=mysql-ip 973714476881.dkr.ecr.us-east-1.amazonaws.com/roboshop-v3/shipping
+docker run -d -p 8080:8080 -e CART_ENDPOINT=cart-ip -e DB_HOST=mysql-ip public.ecr.aws/w8x4g9h7/roboshop-v3/shipping
 
 ```
 

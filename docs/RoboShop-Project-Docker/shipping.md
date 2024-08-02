@@ -8,7 +8,7 @@ sidebar_position: 6
 ```shell 
 
 dnf install docker -y
-docker run -d -p 8080:8080 -e CART_ENDPOINT=cart-ip -e DB_HOST=mysql-ip public.ecr.aws/w8x4g9h7/roboshop-v3/shipping
+docker run -d -p 8080:8080 -e CART_ENDPOINT=cart-ip:cart-port -e DB_HOST=mysql-ip public.ecr.aws/w8x4g9h7/roboshop-v3/shipping
 
 ```
 
@@ -16,6 +16,8 @@ docker run -d -p 8080:8080 -e CART_ENDPOINT=cart-ip -e DB_HOST=mysql-ip public.e
 :::info Note
 
 Replace `cart-ip` with actual IP or DNS record of cart server
+
+Replace `cart-port` with actual port of cart server
 
 Replace `mysql-ip` with actual IP or DNS record of mysql server
 

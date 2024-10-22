@@ -504,7 +504,7 @@
     "How-Tos/extend-lvm-disk-in-rhel9": {
       "id": "How-Tos/extend-lvm-disk-in-rhel9",
       "title": "Steps to Increase disk of LVM in RHEL 9.",
-      "description": "1. Stop the EC2 in case if you created the machine.",
+      "description": "Scenario 1: Instance is created already",
       "sidebar": "tutorialSidebar"
     },
     "How-Tos/how-to-delete-default-vpc": {

@@ -269,7 +269,7 @@
           },
           {
             "type": "link",
-            "label": "create-azure-compute-gallery",
+            "label": "Create Azure compute gallery for Terraform code",
             "href": "/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery",
             "docId": "How-Tos/create-azure-compute-gallery"
           }
@@ -509,7 +509,7 @@
     },
     "How-Tos/create-azure-compute-gallery": {
       "id": "How-Tos/create-azure-compute-gallery",
-      "title": "create-azure-compute-gallery",
+      "title": "Create Azure compute gallery for Terraform code",
       "description": "In Azure Cloud, By default the image which is shared by me in training is not available to use from the command line directly, Hence in terraform while creating the virtual machines we face a challange, to avoid this we will create a VM from the image which I shared and then we convert that VM to a image. Then you use that image in your Terraform code.",
       "sidebar": "tutorialSidebar"
     },

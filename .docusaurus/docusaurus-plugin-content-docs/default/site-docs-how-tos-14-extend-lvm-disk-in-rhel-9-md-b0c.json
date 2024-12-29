@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-Tos/14-extend-lvm-disk-in-rhel9.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 13,
+  "sidebarPosition": 14,
   "frontMatter": {
-    "sidebar_position": 13
+    "sidebar_position": 14
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/learndevopsonline/build/docs/How-Tos/setup-intellij-in-desktop"
   },
   "next": {
-    "title": "Additional Videos",
-    "permalink": "/learndevopsonline/build/docs/category/additional-videos"
+    "title": "create-azure-compute-gallery",
+    "permalink": "/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery"
   }
 }

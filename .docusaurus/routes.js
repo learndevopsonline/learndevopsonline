@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '8dd'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'e76'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
@@ -183,6 +183,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group',
         component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group', 'e39'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery',
+        component: ComponentCreator('/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery', '361'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

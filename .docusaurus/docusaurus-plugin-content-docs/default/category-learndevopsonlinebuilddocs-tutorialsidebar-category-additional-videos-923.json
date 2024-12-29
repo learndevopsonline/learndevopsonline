@@ -5,8 +5,8 @@
   "permalink": "/learndevopsonline/build/docs/category/additional-videos",
   "navigation": {
     "previous": {
-      "title": "Steps to Increase disk of LVM in RHEL 9.",
-      "permalink": "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9"
+      "title": "create-azure-compute-gallery",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery"
     },
     "next": {
       "title": "Problems with SSH KeyPair.",

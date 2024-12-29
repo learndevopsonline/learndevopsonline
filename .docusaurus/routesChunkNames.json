@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-8dd": {
+  "/learndevopsonline/build/docs-e76": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -229,6 +229,10 @@
   "/learndevopsonline/build/docs/How-Tos/create-allow-all-security-group-e39": {
     "__comp": "17896441",
     "content": "1e391087"
+  },
+  "/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery-361": {
+    "__comp": "17896441",
+    "content": "349a0554"
   },
   "/learndevopsonline/build/docs/How-Tos/extend-lvm-disk-in-rhel9-f5c": {
     "__comp": "17896441",

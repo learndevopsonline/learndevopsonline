@@ -20,6 +20,7 @@ export default {
   '1ed25e56': [() => import(/* webpackChunkName: '1ed25e56' */ '@site/docs/RoboShop-Project-V3/frontend.md'), '@site/docs/RoboShop-Project-V3/frontend.md', require.resolveWeak('@site/docs/RoboShop-Project-V3/frontend.md')],
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ '@theme/MDXPage'), '@theme/MDXPage', require.resolveWeak('@theme/MDXPage')],
   '31edacbd': [() => import(/* webpackChunkName: '31edacbd' */ '@site/docs/How-Tos/increase-spot-quota.md'), '@site/docs/How-Tos/increase-spot-quota.md', require.resolveWeak('@site/docs/How-Tos/increase-spot-quota.md')],
+  '349a0554': [() => import(/* webpackChunkName: '349a0554' */ '@site/docs/How-Tos/15-create-azure-compute-gallery.md'), '@site/docs/How-Tos/15-create-azure-compute-gallery.md', require.resolveWeak('@site/docs/How-Tos/15-create-azure-compute-gallery.md')],
   '393be207': [() => import(/* webpackChunkName: '393be207' */ '@site/src/pages/markdown-page.md'), '@site/src/pages/markdown-page.md', require.resolveWeak('@site/src/pages/markdown-page.md')],
   '3c49ff62': [() => import(/* webpackChunkName: '3c49ff62' */ '@site/docs/RoboShop-Project-Docker/project-overview.md'), '@site/docs/RoboShop-Project-Docker/project-overview.md', require.resolveWeak('@site/docs/RoboShop-Project-Docker/project-overview.md')],
   '3c7a37ce': [() => import(/* webpackChunkName: '3c7a37ce' */ '@site/docs/RoboShop-Project/frontend.md'), '@site/docs/RoboShop-Project/frontend.md', require.resolveWeak('@site/docs/RoboShop-Project/frontend.md')],

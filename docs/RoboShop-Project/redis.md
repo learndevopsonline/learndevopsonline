@@ -12,14 +12,16 @@ Redis is used for in-memory data storage(Caching) and allows users to access the
 
 Redis is offering the repo file as a rpm. Lets install it
 
-```shell 
-dnf install https://rpms.remirepo.net/enterprise/remi-release-8.rpm -y
+```shell
+# THis remi repos is not working any more, So ignroe this step and move to next step directly. Run the commands from next step. 
+# dnf install https://rpms.remirepo.net/enterprise/remi-release-8.rpm -y
 ```
 
 Enable Redis 6.2 from package streams.
 
-```shell 
-dnf module enable redis:remi-6.2 -y
+```shell
+dnf module disable redis -y
+dnf module enable redis:6 -y
 ```
 
 Install Redis 

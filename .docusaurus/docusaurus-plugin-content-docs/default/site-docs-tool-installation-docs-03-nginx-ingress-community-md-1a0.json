@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Tool-Installation-Docs/Nginx-Ingress-Community",
+  "id": "Tool-Installation-Docs/Nginx-Ingress-Community",
+  "title": "Install Nginx Ingress - From Community",
+  "description": "Source - https://github.com/kubernetes/ingress-nginx",
+  "source": "@site/docs/Tool-Installation-Docs/03-Nginx-Ingress-Community.md",
+  "sourceDirName": "Tool-Installation-Docs",
+  "slug": "/Tool-Installation-Docs/Nginx-Ingress-Community",
+  "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tool-Installation-Docs/03-Nginx-Ingress-Community.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Metrics Server on Kubernetes",
+    "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server"
+  }
+}

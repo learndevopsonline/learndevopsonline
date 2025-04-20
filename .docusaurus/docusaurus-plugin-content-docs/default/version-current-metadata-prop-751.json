@@ -422,9 +422,15 @@
           },
           {
             "type": "link",
-            "label": "Install Kubernetes Metrics Server on Kubernetes",
+            "label": "Kubernetes Metrics Server on Kubernetes",
             "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server",
             "docId": "Tool-Installation-Docs/Install-Metrics-Server"
+          },
+          {
+            "type": "link",
+            "label": "Install Nginx Ingress - From Community",
+            "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community",
+            "docId": "Tool-Installation-Docs/Nginx-Ingress-Community"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
@@ -776,8 +782,14 @@
     },
     "Tool-Installation-Docs/Install-Metrics-Server": {
       "id": "Tool-Installation-Docs/Install-Metrics-Server",
-      "title": "Install Kubernetes Metrics Server on Kubernetes",
+      "title": "Kubernetes Metrics Server on Kubernetes",
       "description": "Method1 - Manual Install",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tool-Installation-Docs/Nginx-Ingress-Community": {
+      "id": "Tool-Installation-Docs/Nginx-Ingress-Community",
+      "title": "Install Nginx Ingress - From Community",
+      "description": "Source - https://github.com/kubernetes/ingress-nginx",
       "sidebar": "tutorialSidebar"
     }
   }

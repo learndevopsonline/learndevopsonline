@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Install Kubernetes Metrics Server on Kubernetes
+# Kubernetes Metrics Server on Kubernetes
 
 
 ### Method1 - Manual Install
@@ -15,7 +15,6 @@ kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/late
 
 ```terraform
 resource "null_resource" "metrics-server" {
-  depends_on = [null_resource.kubeconfig]
 
   provisioner "local-exec" {
     command = "kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml"

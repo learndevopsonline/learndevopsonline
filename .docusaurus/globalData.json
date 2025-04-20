@@ -301,6 +301,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool-Installation-Docs/Nginx-Ingress-Community",
+              "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/linux-commands",
               "path": "/learndevopsonline/build/docs/category/linux-commands",
               "sidebar": "tutorialSidebar"

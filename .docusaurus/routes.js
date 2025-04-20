@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '010'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '4df'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation',
@@ -459,6 +459,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server',
         component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server', '9ae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community',
+        component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community', 'a8c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-010": {
+  "/learndevopsonline/build/docs-4df": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
@@ -413,6 +413,10 @@
   "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server-9ae": {
     "__comp": "17896441",
     "content": "71383b44"
+  },
+  "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community-a8c": {
+    "__comp": "17896441",
+    "content": "1a0859c1"
   },
   "/learndevopsonline/build/-5f8": {
     "__comp": "c4f5d8e4",

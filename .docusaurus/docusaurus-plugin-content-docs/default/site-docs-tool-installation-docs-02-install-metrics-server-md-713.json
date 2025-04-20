@@ -1,7 +1,7 @@
 {
   "unversionedId": "Tool-Installation-Docs/Install-Metrics-Server",
   "id": "Tool-Installation-Docs/Install-Metrics-Server",
-  "title": "Install Kubernetes Metrics Server on Kubernetes",
+  "title": "Kubernetes Metrics Server on Kubernetes",
   "description": "Method1 - Manual Install",
   "source": "@site/docs/Tool-Installation-Docs/02-Install-Metrics-Server.md",
   "sourceDirName": "Tool-Installation-Docs",
@@ -19,5 +19,9 @@
   "previous": {
     "title": "GOCD Server Installation",
     "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation"
+  },
+  "next": {
+    "title": "Install Nginx Ingress - From Community",
+    "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community"
   }
 }

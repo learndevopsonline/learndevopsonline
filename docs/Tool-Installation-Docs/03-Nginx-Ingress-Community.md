@@ -32,7 +32,8 @@ controller:
 
 - By default nginx ingress will create a Classic load balancer, In order to get the network load balancer we are going to use annotation `service.beta.kubernetes.io/aws-load-balancer-type: "nlb"`
 
-- NLB supports cross availability zone load balancing To enable it we are using `service.beta.kubernetes.io/aws-load-balancer-cross-zone-load-balancing-enabled: "true"` Ref link: https://aws.amazon.com/about-aws/whats-new/2018/02/network-load-balancer-now-supports-cross-zone-load-balancing/
+- NLB supports cross availability zone load balancing To enable it we are using `service.beta.kubernetes.io/aws-load-balancer-cross-zone-load-balancing-enabled: "true"` 
+    Ref link: https://aws.amazon.com/about-aws/whats-new/2018/02/network-load-balancer-now-supports-cross-zone-load-balancing/
 
 
 To monitor the nginx ingress with prometheus, we need to scrape the metrics. So to scrape metrics thise needs to be exported. Hence we are using metrics to be enabled and giving port information.

@@ -4,8 +4,8 @@
   "permalink": "/learndevopsonline/build/docs/category/roboshop-project-setup-documentation---rhel-9",
   "navigation": {
     "previous": {
-      "title": "Problems with SSH KeyPair.",
-      "permalink": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor"
+      "title": "Create Azure compute gallery for Terraform code",
+      "permalink": "/learndevopsonline/build/docs/How-Tos/create-azure-compute-gallery"
     },
     "next": {
       "title": "Project Overview",

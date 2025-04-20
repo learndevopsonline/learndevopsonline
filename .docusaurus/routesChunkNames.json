@@ -143,20 +143,12 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-e76": {
+  "/learndevopsonline/build/docs-010": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
     },
     "versionMetadata": "935f2afb"
-  },
-  "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor-35b": {
-    "__comp": "17896441",
-    "content": "966679ea"
-  },
-  "/learndevopsonline/build/docs/category/additional-videos-4e4": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "74542498"
   },
   "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation-a97": {
     "__comp": "14eb3368",
@@ -417,6 +409,10 @@
   "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation-5fd": {
     "__comp": "17896441",
     "content": "186ce14a"
+  },
+  "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server-9ae": {
+    "__comp": "17896441",
+    "content": "71383b44"
   },
   "/learndevopsonline/build/-5f8": {
     "__comp": "c4f5d8e4",

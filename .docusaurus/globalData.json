@@ -11,11 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "bonus-videos/aws-cloud9-service-as-editor",
-              "path": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Expense-Project-V2/backend",
               "path": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
               "sidebar": "tutorialSidebar"
@@ -301,6 +296,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool-Installation-Docs/Install-Metrics-Server",
+              "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/linux-commands",
               "path": "/learndevopsonline/build/docs/category/linux-commands",
               "sidebar": "tutorialSidebar"
@@ -323,11 +323,6 @@
             {
               "id": "/category/how-tos",
               "path": "/learndevopsonline/build/docs/category/how-tos",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/additional-videos",
-              "path": "/learndevopsonline/build/docs/category/additional-videos",
               "sidebar": "tutorialSidebar"
             },
             {

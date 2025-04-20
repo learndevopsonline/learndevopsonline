@@ -278,21 +278,6 @@
       },
       {
         "type": "category",
-        "label": "Additional Videos",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Problems with SSH KeyPair.",
-            "href": "/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor",
-            "docId": "bonus-videos/aws-cloud9-service-as-editor"
-          }
-        ],
-        "href": "/learndevopsonline/build/docs/category/additional-videos"
-      },
-      {
-        "type": "category",
         "label": "RoboShop Project Setup Documentation - RHEL 9",
         "collapsible": true,
         "collapsed": true,
@@ -434,6 +419,12 @@
             "label": "GOCD Server Installation",
             "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
             "docId": "Tool-Installation-Docs/GoCD-Installation"
+          },
+          {
+            "type": "link",
+            "label": "Install Kubernetes Metrics Server on Kubernetes",
+            "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server",
+            "docId": "Tool-Installation-Docs/Install-Metrics-Server"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
@@ -441,12 +432,6 @@
     ]
   },
   "docs": {
-    "bonus-videos/aws-cloud9-service-as-editor": {
-      "id": "bonus-videos/aws-cloud9-service-as-editor",
-      "title": "Problems with SSH KeyPair.",
-      "description": "Comment of the video if you need clarity on any part of the video.",
-      "sidebar": "tutorialSidebar"
-    },
     "Expense-Project-V2/backend": {
       "id": "Expense-Project-V2/backend",
       "title": "03-Backend",
@@ -787,6 +772,12 @@
       "id": "Tool-Installation-Docs/GoCD-Installation",
       "title": "GOCD Server Installation",
       "description": "Increase Disk Space for GoCD Server Setup.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tool-Installation-Docs/Install-Metrics-Server": {
+      "id": "Tool-Installation-Docs/Install-Metrics-Server",
+      "title": "Install Kubernetes Metrics Server on Kubernetes",
+      "description": "Method1 - Manual Install",
       "sidebar": "tutorialSidebar"
     }
   }

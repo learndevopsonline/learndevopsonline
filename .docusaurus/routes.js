@@ -64,20 +64,8 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'e76'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '010'),
     routes: [
-      {
-        path: '/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor',
-        component: ComponentCreator('/learndevopsonline/build/docs/bonus-videos/aws-cloud9-service-as-editor', '35b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/learndevopsonline/build/docs/category/additional-videos',
-        component: ComponentCreator('/learndevopsonline/build/docs/category/additional-videos', '4e4'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation',
         component: ComponentCreator('/learndevopsonline/build/docs/category/expense-app-project-setup-documentation', 'a97'),
@@ -465,6 +453,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation',
         component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation', '5fd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server',
+        component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server', '9ae'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

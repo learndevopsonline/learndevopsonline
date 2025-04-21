@@ -19,5 +19,9 @@
   "previous": {
     "title": "Kubernetes Metrics Server on Kubernetes",
     "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Install-Metrics-Server"
+  },
+  "next": {
+    "title": "Install Ansible",
+    "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible"
   }
 }

@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '4df'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '01c'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation',
@@ -447,6 +447,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/RoboShop-Project/user',
         component: ComponentCreator('/learndevopsonline/build/docs/RoboShop-Project/user', 'bb6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible',
+        component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible', '732'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

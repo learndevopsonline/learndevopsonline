@@ -291,6 +291,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool-Installation-Docs/Ansible",
+              "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tool-Installation-Docs/GoCD-Installation",
               "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
               "sidebar": "tutorialSidebar"

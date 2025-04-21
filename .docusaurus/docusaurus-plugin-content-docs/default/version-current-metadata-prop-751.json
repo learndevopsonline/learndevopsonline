@@ -431,6 +431,12 @@
             "label": "Install Nginx Ingress - From Community",
             "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community",
             "docId": "Tool-Installation-Docs/Nginx-Ingress-Community"
+          },
+          {
+            "type": "link",
+            "label": "Install Ansible",
+            "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible",
+            "docId": "Tool-Installation-Docs/Ansible"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
@@ -772,6 +778,12 @@
       "id": "RoboShop-Project/user",
       "title": "05-User",
       "description": "User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tool-Installation-Docs/Ansible": {
+      "id": "Tool-Installation-Docs/Ansible",
+      "title": "Install Ansible",
+      "description": "Ref link//docs.ansible.com/ansible/latest/installationguide/introinstallation.html",
       "sidebar": "tutorialSidebar"
     },
     "Tool-Installation-Docs/GoCD-Installation": {

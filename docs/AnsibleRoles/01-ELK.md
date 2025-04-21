@@ -100,11 +100,20 @@ http {
     - nginx
 ```
 
-# Generate an enrollment token for Kibana instances with
-#  /usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana
+Few steps if elasticsearch that needs to be handled from UI to start the service, Following are the commands
 
-# Kibana Verification
-# /usr/share/kibana/bin/kibana-verification-code
+1. Generate an enrollment token for Kibana instance.
+```bash
+/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana
+```
 
-# Reset admin password
-# /usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic
+2. Kibana Verification
+```bash
+/usr/share/kibana/bin/kibana-verification-code
+```
+
+3.Reset admin password
+```bash
+/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic
+```
+

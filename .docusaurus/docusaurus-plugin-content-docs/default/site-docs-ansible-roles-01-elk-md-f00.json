@@ -2,7 +2,7 @@
   "unversionedId": "AnsibleRoles/ELK",
   "id": "AnsibleRoles/ELK",
   "title": "ELK Stack",
-  "description": "",
+  "description": "Few steps if elasticsearch that needs to be handled from UI to start the service, Following are the commands",
   "source": "@site/docs/AnsibleRoles/01-ELK.md",
   "sourceDirName": "AnsibleRoles",
   "slug": "/AnsibleRoles/ELK",

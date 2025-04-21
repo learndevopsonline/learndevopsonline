@@ -19,5 +19,9 @@
   "previous": {
     "title": "Install Nginx Ingress - From Community",
     "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community"
+  },
+  "next": {
+    "title": "Ansible Roles",
+    "permalink": "/learndevopsonline/build/docs/category/ansible-roles"
   }
 }

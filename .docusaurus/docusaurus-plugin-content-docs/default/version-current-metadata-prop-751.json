@@ -440,10 +440,31 @@
           }
         ],
         "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
+      },
+      {
+        "type": "category",
+        "label": "Ansible Roles",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "ELK Stack",
+            "href": "/learndevopsonline/build/docs/AnsibleRoles/ELK",
+            "docId": "AnsibleRoles/ELK"
+          }
+        ],
+        "href": "/learndevopsonline/build/docs/category/ansible-roles"
       }
     ]
   },
   "docs": {
+    "AnsibleRoles/ELK": {
+      "id": "AnsibleRoles/ELK",
+      "title": "ELK Stack",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "Expense-Project-V2/backend": {
       "id": "Expense-Project-V2/backend",
       "title": "03-Backend",

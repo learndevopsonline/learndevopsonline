@@ -64,8 +64,20 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '01c'),
+    component: ComponentCreator('/learndevopsonline/build/docs', '55d'),
     routes: [
+      {
+        path: '/learndevopsonline/build/docs/AnsibleRoles/ELK',
+        component: ComponentCreator('/learndevopsonline/build/docs/AnsibleRoles/ELK', 'b94'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/category/ansible-roles',
+        component: ComponentCreator('/learndevopsonline/build/docs/category/ansible-roles', 'a62'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/learndevopsonline/build/docs/category/expense-app-project-setup-documentation',
         component: ComponentCreator('/learndevopsonline/build/docs/category/expense-app-project-setup-documentation', 'a97'),

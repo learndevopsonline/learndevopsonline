@@ -1,0 +1,15 @@
+{
+  "title": "Ansible Roles",
+  "slug": "/category/ansible-roles",
+  "permalink": "/learndevopsonline/build/docs/category/ansible-roles",
+  "navigation": {
+    "previous": {
+      "title": "Install Ansible",
+      "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible"
+    },
+    "next": {
+      "title": "ELK Stack",
+      "permalink": "/learndevopsonline/build/docs/AnsibleRoles/ELK"
+    }
+  }
+}

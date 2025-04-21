@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "AnsibleRoles/ELK",
+              "path": "/learndevopsonline/build/docs/AnsibleRoles/ELK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Expense-Project-V2/backend",
               "path": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
               "sidebar": "tutorialSidebar"
@@ -348,6 +353,11 @@
             {
               "id": "/category/tools-installation-steps",
               "path": "/learndevopsonline/build/docs/category/tools-installation-steps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ansible-roles",
+              "path": "/learndevopsonline/build/docs/category/ansible-roles",
               "sidebar": "tutorialSidebar"
             }
           ],

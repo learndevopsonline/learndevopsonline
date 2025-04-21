@@ -143,12 +143,20 @@
     },
     "content": "393be207"
   },
-  "/learndevopsonline/build/docs-01c": {
+  "/learndevopsonline/build/docs-55d": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "7762e1e9"
     },
     "versionMetadata": "935f2afb"
+  },
+  "/learndevopsonline/build/docs/AnsibleRoles/ELK-b94": {
+    "__comp": "17896441",
+    "content": "f0044a8b"
+  },
+  "/learndevopsonline/build/docs/category/ansible-roles-a62": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f1465817"
   },
   "/learndevopsonline/build/docs/category/expense-app-project-setup-documentation-a97": {
     "__comp": "14eb3368",

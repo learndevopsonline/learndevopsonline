@@ -301,6 +301,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool-Installation-Docs/Filebeat-On-Kubernetes",
+              "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tool-Installation-Docs/GoCD-Installation",
               "path": "/learndevopsonline/build/docs/Tool-Installation-Docs/GoCD-Installation",
               "sidebar": "tutorialSidebar"

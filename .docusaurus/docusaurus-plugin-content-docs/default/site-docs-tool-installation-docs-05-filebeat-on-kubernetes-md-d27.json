@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Tool-Installation-Docs/Filebeat-On-Kubernetes",
+  "id": "Tool-Installation-Docs/Filebeat-On-Kubernetes",
+  "title": "Filebeat on Kubernetes",
+  "description": "This is the helm values input file, Inside that file we need to modify the input of elastic endpoint",
+  "source": "@site/docs/Tool-Installation-Docs/05-Filebeat-On-Kubernetes.md",
+  "sourceDirName": "Tool-Installation-Docs",
+  "slug": "/Tool-Installation-Docs/Filebeat-On-Kubernetes",
+  "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tool-Installation-Docs/05-Filebeat-On-Kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install Ansible",
+    "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible"
+  },
+  "next": {
+    "title": "Ansible Roles",
+    "permalink": "/learndevopsonline/build/docs/category/ansible-roles"
+  }
+}

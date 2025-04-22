@@ -4,8 +4,8 @@
   "permalink": "/learndevopsonline/build/docs/category/ansible-roles",
   "navigation": {
     "previous": {
-      "title": "Install Ansible",
-      "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible"
+      "title": "Filebeat on Kubernetes",
+      "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes"
     },
     "next": {
       "title": "ELK Stack",

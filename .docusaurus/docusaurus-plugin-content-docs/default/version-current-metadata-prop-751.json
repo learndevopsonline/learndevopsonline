@@ -437,6 +437,12 @@
             "label": "Install Ansible",
             "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible",
             "docId": "Tool-Installation-Docs/Ansible"
+          },
+          {
+            "type": "link",
+            "label": "Filebeat on Kubernetes",
+            "href": "/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes",
+            "docId": "Tool-Installation-Docs/Filebeat-On-Kubernetes"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/tools-installation-steps"
@@ -805,6 +811,12 @@
       "id": "Tool-Installation-Docs/Ansible",
       "title": "Install Ansible",
       "description": "Ref link//docs.ansible.com/ansible/latest/installationguide/introinstallation.html",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tool-Installation-Docs/Filebeat-On-Kubernetes": {
+      "id": "Tool-Installation-Docs/Filebeat-On-Kubernetes",
+      "title": "Filebeat on Kubernetes",
+      "description": "This is the helm values input file, Inside that file we need to modify the input of elastic endpoint",
       "sidebar": "tutorialSidebar"
     },
     "Tool-Installation-Docs/GoCD-Installation": {

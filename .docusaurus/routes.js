@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', '55d'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'ff3'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/AnsibleRoles/ELK',
@@ -465,6 +465,12 @@ export default [
       {
         path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible',
         component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Ansible', '732'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes',
+        component: ComponentCreator('/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes', '2bb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

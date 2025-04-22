@@ -21,7 +21,7 @@
     "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Nginx-Ingress-Community"
   },
   "next": {
-    "title": "Ansible Roles",
-    "permalink": "/learndevopsonline/build/docs/category/ansible-roles"
+    "title": "Filebeat on Kubernetes",
+    "permalink": "/learndevopsonline/build/docs/Tool-Installation-Docs/Filebeat-On-Kubernetes"
   }
 }

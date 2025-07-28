@@ -458,6 +458,12 @@
             "label": "ELK Stack",
             "href": "/learndevopsonline/build/docs/AnsibleRoles/ELK",
             "docId": "AnsibleRoles/ELK"
+          },
+          {
+            "type": "link",
+            "label": "SonarQube",
+            "href": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube",
+            "docId": "AnsibleRoles/SonarQube"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/ansible-roles"
@@ -469,6 +475,12 @@
       "id": "AnsibleRoles/ELK",
       "title": "ELK Stack",
       "description": "Few steps if elasticsearch that needs to be handled from UI to start the service, Following are the commands",
+      "sidebar": "tutorialSidebar"
+    },
+    "AnsibleRoles/SonarQube": {
+      "id": "AnsibleRoles/SonarQube",
+      "title": "SonarQube",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Expense-Project-V2/backend": {

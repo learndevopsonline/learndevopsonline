@@ -19,5 +19,9 @@
   "previous": {
     "title": "Ansible Roles",
     "permalink": "/learndevopsonline/build/docs/category/ansible-roles"
+  },
+  "next": {
+    "title": "SonarQube",
+    "permalink": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube"
   }
 }

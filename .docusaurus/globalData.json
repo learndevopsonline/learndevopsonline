@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "AnsibleRoles/SonarQube",
+              "path": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Expense-Project-V2/backend",
               "path": "/learndevopsonline/build/docs/Expense-Project-V2/backend",
               "sidebar": "tutorialSidebar"

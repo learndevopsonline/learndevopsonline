@@ -64,11 +64,17 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'ff3'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'df9'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/AnsibleRoles/ELK',
         component: ComponentCreator('/learndevopsonline/build/docs/AnsibleRoles/ELK', 'b94'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/AnsibleRoles/SonarQube',
+        component: ComponentCreator('/learndevopsonline/build/docs/AnsibleRoles/SonarQube', 'e5c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

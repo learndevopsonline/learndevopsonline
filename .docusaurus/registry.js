@@ -38,6 +38,7 @@ export default {
   '56c81e46': [() => import(/* webpackChunkName: '56c81e46' */ '@site/docs/RoboShop-Project/catalogue.md'), '@site/docs/RoboShop-Project/catalogue.md', require.resolveWeak('@site/docs/RoboShop-Project/catalogue.md')],
   '59362658': [() => import(/* webpackChunkName: '59362658' */ '@site/blog/2021-08-01-mdx-blog-post.mdx'), '@site/blog/2021-08-01-mdx-blog-post.mdx', require.resolveWeak('@site/blog/2021-08-01-mdx-blog-post.mdx')],
   '5e9f5e1a': [() => import(/* webpackChunkName: '5e9f5e1a' */ '@generated/docusaurus.config'), '@generated/docusaurus.config', require.resolveWeak('@generated/docusaurus.config')],
+  '63f1fad1': [() => import(/* webpackChunkName: '63f1fad1' */ '@site/docs/AnsibleRoles/02-SonarQube.md'), '@site/docs/AnsibleRoles/02-SonarQube.md', require.resolveWeak('@site/docs/AnsibleRoles/02-SonarQube.md')],
   '64e1cd0a': [() => import(/* webpackChunkName: '64e1cd0a' */ '@site/docs/RoboShop-Project-V3/redis.md'), '@site/docs/RoboShop-Project-V3/redis.md', require.resolveWeak('@site/docs/RoboShop-Project-V3/redis.md')],
   '6523df8b': [() => import(/* webpackChunkName: '6523df8b' */ '@site/docs/How-Tos/aws-cloud9-service-as-editor.md'), '@site/docs/How-Tos/aws-cloud9-service-as-editor.md', require.resolveWeak('@site/docs/How-Tos/aws-cloud9-service-as-editor.md')],
   '658b7a21': [() => import(/* webpackChunkName: '658b7a21' */ '@site/docs/RoboShop-Project-V3/user.md'), '@site/docs/RoboShop-Project-V3/user.md', require.resolveWeak('@site/docs/RoboShop-Project-V3/user.md')],

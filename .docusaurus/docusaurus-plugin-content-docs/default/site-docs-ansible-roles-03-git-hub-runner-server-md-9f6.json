@@ -1,0 +1,23 @@
+{
+  "unversionedId": "AnsibleRoles/GitHub-Runner-Server",
+  "id": "AnsibleRoles/GitHub-Runner-Server",
+  "title": "GitHub Runner - Server",
+  "description": "Run ansible with ansible-playbook -e vault_token=",
+  "source": "@site/docs/AnsibleRoles/03-GitHub-Runner-Server.md",
+  "sourceDirName": "AnsibleRoles",
+  "slug": "/AnsibleRoles/GitHub-Runner-Server",
+  "permalink": "/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AnsibleRoles/03-GitHub-Runner-Server.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SonarQube",
+    "permalink": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube"
+  }
+}

@@ -19,5 +19,9 @@
   "previous": {
     "title": "ELK Stack",
     "permalink": "/learndevopsonline/build/docs/AnsibleRoles/ELK"
+  },
+  "next": {
+    "title": "GitHub Runner - Server",
+    "permalink": "/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server"
   }
 }

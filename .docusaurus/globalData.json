@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "AnsibleRoles/GitHub-Runner-Server",
+              "path": "/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "AnsibleRoles/SonarQube",
               "path": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube",
               "sidebar": "tutorialSidebar"

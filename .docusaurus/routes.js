@@ -64,11 +64,17 @@ export default [
   },
   {
     path: '/learndevopsonline/build/docs',
-    component: ComponentCreator('/learndevopsonline/build/docs', 'df9'),
+    component: ComponentCreator('/learndevopsonline/build/docs', 'f91'),
     routes: [
       {
         path: '/learndevopsonline/build/docs/AnsibleRoles/ELK',
         component: ComponentCreator('/learndevopsonline/build/docs/AnsibleRoles/ELK', 'b94'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server',
+        component: ComponentCreator('/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server', 'c35'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -464,6 +464,12 @@
             "label": "SonarQube",
             "href": "/learndevopsonline/build/docs/AnsibleRoles/SonarQube",
             "docId": "AnsibleRoles/SonarQube"
+          },
+          {
+            "type": "link",
+            "label": "GitHub Runner - Server",
+            "href": "/learndevopsonline/build/docs/AnsibleRoles/GitHub-Runner-Server",
+            "docId": "AnsibleRoles/GitHub-Runner-Server"
           }
         ],
         "href": "/learndevopsonline/build/docs/category/ansible-roles"
@@ -475,6 +481,12 @@
       "id": "AnsibleRoles/ELK",
       "title": "ELK Stack",
       "description": "Few steps if elasticsearch that needs to be handled from UI to start the service, Following are the commands",
+      "sidebar": "tutorialSidebar"
+    },
+    "AnsibleRoles/GitHub-Runner-Server": {
+      "id": "AnsibleRoles/GitHub-Runner-Server",
+      "title": "GitHub Runner - Server",
+      "description": "Run ansible with ansible-playbook -e vault_token=",
       "sidebar": "tutorialSidebar"
     },
     "AnsibleRoles/SonarQube": {
